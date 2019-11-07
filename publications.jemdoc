@@ -5,6 +5,14 @@
 ~~~
 {}{table}{JTABLE}
  |*Author(s)*  | *Title* | *Journal* | *Info.\** ||
+ J3 | 
+	 S. Khobahi, *A. Bose*, A. R. Trivedi, and M. Soltanalian | 
+	 Towards Interpretable Deep Learning Frameworks for Non-Convex Optimization and Signal Processing | 
+	 IEEE Signal Processing Magazine | 
+	 Submitted, 2019. 
+	 \[link\] 	 
+	 \[pdf\] ||
+
  J2 | 
 	 A. Ameri, *A. Bose*, J. Li, and M. Soltanalian | 
 	 One-Bit Signal Recovery via Adaptive Thresholding | 
@@ -27,49 +35,40 @@
 ~~~
 {}{table}{CTABLE}
  |*Author(s)*  | *Title* | *Conference* | *Info.\** ||
-  C13 | 
-	 *A. Bose*, S. Khobahi, and M. Soltanalian | 
-	 Deep One-Bit Compressive Autoncoding | 
-	 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2020 | 
-	 Barcelone, Spain, May 2020. Submitted. 
-	 \[link\] 	 
-	 \[presentation\] 
-	 \[pdf\] ||
-	
  C12 | 
 	 *A. Bose*, S. Khobahi, and M. Soltanalian | 
 	 Joint Optimization of Waveform Covariance Matrix and Antenna Selection for MIMO Radar | 
 	 IEEE Asilomar Conference on Signals, Systems, and Computers 2019 | 
-	 Pacific Grove, CA, Nov 2019. In Progress. 
+	 Pacific Grove, CA, Nov 2019. Invited. Accepted. 
 	 \[link\] 	 
-	 \[presentation\] 
+	 \[[pdfs/presentations/Asilomar2019_1212.pdf presentation]\] 
 	 \[pdf\] ||
  
  C11 | 
 	 A. Ameri, *A. Bose*, and M. Soltanalian | 
 	 Waveform Design for One-Bit Radar Systems Under Uncertain Interference Statistics | 
 	 IEEE Asilomar Conference on Signals, Systems, and Computers 2019 | 
-	 Pacific Grove, CA, Nov 2019. In Progress. 
+	 Pacific Grove, CA, Nov 2019. Invited. Accepted. 
 	 \[link\] 	 
-	 \[presentation\] 
+	 \[[pdfs/presentations/Asilomar2019_1347.pdf presentation]\] 
 	 \[pdf\] ||
  
  C10 | 
 	 P. Wang, T. Koike-Akino, *A. Bose*, R. Ma, P. Orlik, W. Tsujita, K. Sadamoto, H. Tsutada, and M. Soltanalian | 
 	 Learning-Based Shadow Mitigation for Terahertz Multi-Layer Imaging | 
-	 International Conference on Infrared, Millimeter, and Terahertz Waves (IRMMW-THz) 2019 | 
+	 44th International Conference on Infrared, Millimeter, and Terahertz Waves (IRMMW-THz) 2019 | 
 	 Paris, France, Sep 2019. 
 	 \[link\]
-	 \[[pdfs/papers/conferences/TR2019_090.pdf pdf]\] ||
+	 \[pdf\] ||
  
  C9 | 
 	 *A. Bose*, A. Kadu, H. Mansour, P. Wang, P. Boufounos, P. Orlik, and M. Soltanalian | 
 	 THz Multi-Layer Imaging Via Nonlinear Inverse Scattering | 
-	 International Conference on Infrared, Millimeter, and Terahertz Waves (IRMMW-THz) 2019 | 
+	 44th International Conference on Infrared, Millimeter, and Terahertz Waves (IRMMW-THz) 2019 | 
 	 Paris, France, Sep 2019. 
 	 \[link\] 	 
 	 \[[pdfs/presentations/IRMMW2019_Nonlinear_Diffraction_THz.pdf presentation]\] 
-	 \[[pdfs/papers/conferences/TR2019_091.pdf pdf]\] ||
+	 \[pdf\] ||
  
  C8 | 
 	 A. Ameri, *A. Bose*, and M. Soltanalian | 
@@ -78,7 +77,7 @@
 	 Minneapolis, MN, Jun 2019. 
 	 \[[http://ieeexplore.ieee.org/document/8755595 link]\] 
 	 \[[pdfs/presentations/DSW2019_CPR.pdf presentation]\] 
-	 \[[pdfs/papers/conferences/IEEE_08755595.pdf pdf]\] ||
+	 \[[pdfs/papers/conferences/IEEE_8755595.pdf pdf]\] ||
  
  C7 | 
 	 I. A. Arriaga-Trejo, *A. Bose*, A. G. Orozco-Lugo, and M. Soltanalian | 
