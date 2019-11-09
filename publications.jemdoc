@@ -5,28 +5,18 @@
 ~~~
 {}{table}{JTABLE}
  |*Author(s)*  | *Title* | *Journal* | *Info.\** ||
- J3 | 
-	 S. Khobahi, *A. Bose*, A. R. Trivedi, and M. Soltanalian | 
-	 Towards Interpretable Deep Learning Frameworks for Non-Convex Optimization and Signal Processing | 
-	 IEEE Signal Processing Magazine | 
-	 Submitted, 2019. 
-	 \[link\] 	 
-	 \[pdf\] ||
-
  J2 | 
 	 A. Ameri, *A. Bose*, J. Li, and M. Soltanalian | 
-	 One-Bit Signal Recovery via Adaptive Thresholding | 
+	 [https://ieeexplore.ieee.org/document/8822763 One-Bit Signal Recovery via Adaptive Thresholding] | 
 	 IEEE Transactions on Signal Processing | 
 	 vol. 67, no. 20, pp. 5297 - 5308, Sep 2019. 
-	 \[[https://ieeexplore.ieee.org/document/8822763 link]\] 
 	 \[[pdfs/papers/journals/IEEE_08822763.pdf pdf]\] ||
 
  J1 | 
 	 *A. Bose* and M. Soltanalian | 
-	 Constructing Binary Sequences With Good Correlation Properties: An Efficient Analytical-Computational Interplay | 
+	 [https://ieeexplore.ieee.org/document/8314765 Constructing Binary Sequences With Good Correlation Properties: An Efficient Analytical-Computational Interplay] | 
 	 IEEE Transaction on Signal Processing | 
 	 vol. 66, no. 11, pp. 2998 - 3007, Jun 2018. 
-	 \[[https://ieeexplore.ieee.org/document/8314765 link]\] 
 	 \[[pdfs/papers/journals/IEEE_08314765.pdf pdf]\]
 
 ~~~
@@ -35,12 +25,18 @@
 ~~~
 {}{table}{CTABLE}
  |*Author(s)*  | *Title* | *Conference* | *Info.\** ||
+ C13 | 
+	 S. Khobahi, *A. Bose*, and M. Soltanalian | 
+	 Deep One-Bit Compressive Autoencoder | 
+	 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2018 | 
+	 Barcelona, Spain, May 2020. Submitted. 
+	 \[pdf\] ||
+	 
  C12 | 
 	 *A. Bose*, S. Khobahi, and M. Soltanalian | 
 	 Joint Optimization of Waveform Covariance Matrix and Antenna Selection for MIMO Radar | 
 	 IEEE Asilomar Conference on Signals, Systems, and Computers 2019 | 
-	 Pacific Grove, CA, Nov 2019. Invited. Accepted. 
-	 \[link\] 	 
+	 Pacific Grove, CA, Nov 2019. Invited. 
 	 \[[pdfs/presentations/Asilomar2019_1212.pdf presentation]\] 
 	 \[pdf\] ||
  
@@ -48,94 +44,84 @@
 	 A. Ameri, *A. Bose*, and M. Soltanalian | 
 	 Waveform Design for One-Bit Radar Systems Under Uncertain Interference Statistics | 
 	 IEEE Asilomar Conference on Signals, Systems, and Computers 2019 | 
-	 Pacific Grove, CA, Nov 2019. Invited. Accepted. 
-	 \[link\] 	 
+	 Pacific Grove, CA, Nov 2019. Invited. 
 	 \[[pdfs/presentations/Asilomar2019_1347.pdf presentation]\] 
 	 \[pdf\] ||
  
  C10 | 
 	 P. Wang, T. Koike-Akino, *A. Bose*, R. Ma, P. Orlik, W. Tsujita, K. Sadamoto, H. Tsutada, and M. Soltanalian | 
-	 Learning-Based Shadow Mitigation for Terahertz Multi-Layer Imaging | 
-	 44th International Conference on Infrared, Millimeter, and Terahertz Waves (IRMMW-THz) 2019 | 
+	 [https://ieeexplore.ieee.org/document/8874429 Learning-Based Shadow Mitigation for Terahertz Multi-Layer Imaging] | 
+	 IEEE International Conference on Infrared, Millimeter, and Terahertz Waves (IRMMW-THz) 2019 | 
 	 Paris, France, Sep 2019. 
-	 \[link\]
-	 \[pdf\] ||
+	 \[[pdfs/papers/conferences/IEEE_08874429.pdf pdf]\] ||
  
  C9 | 
 	 *A. Bose*, A. Kadu, H. Mansour, P. Wang, P. Boufounos, P. Orlik, and M. Soltanalian | 
-	 THz Multi-Layer Imaging Via Nonlinear Inverse Scattering | 
-	 44th International Conference on Infrared, Millimeter, and Terahertz Waves (IRMMW-THz) 2019 | 
+	 [https://ieeexplore.ieee.org/document/8874118 THz Multi-Layer Imaging Via Nonlinear Inverse Scattering] | 
+	 IEEE International Conference on Infrared, Millimeter, and Terahertz Waves (IRMMW-THz) 2019 | 
 	 Paris, France, Sep 2019. 
-	 \[link\] 	 
 	 \[[pdfs/presentations/IRMMW2019_Nonlinear_Diffraction_THz.pdf presentation]\] 
-	 \[pdf\] ||
+	 \[[pdfs/papers/conferences/IEEE_08874118.pdf pdf]\] ||
  
  C8 | 
 	 A. Ameri, *A. Bose*, and M. Soltanalian | 
-	 Comprehensive Personalized Ranking Using One-Bit Comparison Data | 
+	 [https://ieeexplore.ieee.org/document/8755595 Comprehensive Personalized Ranking Using One-Bit Comparison Data] | 
 	 IEEE Data Science Workshop (DSW) 2019 | 
 	 Minneapolis, MN, Jun 2019. 
-	 \[[http://ieeexplore.ieee.org/document/8755595 link]\] 
 	 \[[pdfs/presentations/DSW2019_CPR.pdf presentation]\] 
 	 \[[pdfs/papers/conferences/IEEE_8755595.pdf pdf]\] ||
  
  C7 | 
 	 I. A. Arriaga-Trejo, *A. Bose*, A. G. Orozco-Lugo, and M. Soltanalian | 
-	 Design of Unimodular Sequence Sets with Good Correlation and Complementary Correlation Properties | 
+	 [https://ieeexplore.ieee.org/document/8646667 Design of Unimodular Sequence Sets with Good Correlation and Complementary Correlation Properties] | 
 	 IEEE Global Conference on Signal and Information Processing (GlobalSIP) 2018 | 
 	 Anaheim, CA, Nov 2018. 
-	 \[[https://ieeexplore.ieee.org/document/8646667 link]\] 
 	 \[[pdfs/papers/conferences/IEEE_08646667.pdf pdf]\] ||
  
  C6 | 
 	 *A. Bose*, I. A. Arriaga-Trejo, A. G. Orozco-Lugo, and M. Soltanalian | 
-	 Generalized Cyclic Algorithms for Designing Unimodular Sequence Sets with Good (Complementary) Correlation Properties | 
+	 [https://ieeexplore.ieee.org/document/8448920 Generalized Cyclic Algorithms for Designing Unimodular Sequence Sets with Good (Complementary) Correlation Properties] | 
 	 IEEE Sensor Array and Multichannel Signal Processing Workshop (SAM) 2018 | 
 	 Sheffield, UK, Jul 2018. Invited. 
-	 \[[http://ieeexplore.ieee.org/document/8448920 link]\] 
 	 \[[pdfs/presentations/SAM2018_Generalized_Cyclic_Algorithms.pdf presentation]\] 
 	 \[[pdfs/papers/conferences/IEEE_08448920.pdf pdf]\] ||
  
  C5 | 
 	*A. Bose*, A. Ameri, M. Klug, and M. Soltanalian | 
-	 Low-Rank Matrix Recovery From One-Bit Comparison Information | 
+	 [https://ieeexplore.ieee.org/document/8461367 Low-Rank Matrix Recovery From One-Bit Comparison Information] | 
 	 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2018 | 
 	 Calgary, Alberta, Canada, Apr 2018. 
-	 \[[http://ieeexplore.ieee.org/document/8461367 link]\] 
 	 \[[pdfs/posters/ICASSP_Low-Rank_Matrix_Recovery_from_One-Bit_Comparison_Information.pdf poster]\] 
 	 \[[pdfs/papers/conferences/IEEE_08461367.pdf pdf]\] ||
  
  C4 | 
 	*A. Bose*, N. Mohammadi and M. Soltanalian | 
-	 Designing Signals with Good Correlation and Distribution Properties | 
+	 [https://ieeexplore.ieee.org/document/8462572 Designing Signals with Good Correlation and Distribution Properties] | 
 	 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2018 | 
 	 Calgary, Alberta, Canada, Apr 2018. 
-	 \[[http://ieeexplore.ieee.org/document/8462572 link]\] 
 	 \[[pdfs/posters/ICASSP_Designing_Signals_with_Good_Correlation_and_Distribution_Properties.pdf poster]\] 
 	 \[[pdfs/papers/conferences/IEEE_08462572.pdf pdf]\] ||
 
  C3 | 
 	 *A. Bose* and M. Soltanalian | 
-	 Efficient Construction of Polyphase Sequences With Optimal Peak Sidelobe Level Growth | 
+	 [https://ieeexplore.ieee.org/document/8308608 Efficient Construction of Polyphase Sequences With Optimal Peak Sidelobe Level Growth] | 
 	 IEEE Global Conference on Signal and Information Processing (GlobalSIP) 2017| 
 	 Montreal, Canada, Nov 2017. 
-	 \[[http://ieeexplore.ieee.org/document/8308608 link]\] 
 	 \[[pdfs/presentations/GlobalSIP_Efficient_Construction_of_Polyphase_Sequences_with_Optimal_Peak_Sidelobe_Level_Growth.pdf presentation]\] 
 	 \[[pdfs/papers/conferences/IEEE_08308608.pdf pdf]\] ||
 
  C2 | 
 	 *A. Bose* and M. Soltanalian | 
-	 Non-Convex Shredded Signal Reconstruction via Sparsity Enhancement | 
+	 [https://ieeexplore.ieee.org/document/7953046/ Non-Convex Shredded Signal Reconstruction via Sparsity Enhancement] | 
 	 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2017 | 
 	 New Orleans, LA, Mar 2017. 
-	 \[[http://ieeexplore.ieee.org/document/7953046/ link]\] \[[pdfs/posters/ICASSP_Non-Convex_Shredded_Signal_Reconstruction_via_Sparsity_Enhancement.pdf poster]\] \[[pdfs/papers/conferences/IEEE_07953046.pdf pdf]\] ||
+	 \[[pdfs/posters/ICASSP_Non-Convex_Shredded_Signal_Reconstruction_via_Sparsity_Enhancement.pdf poster]\] \[[pdfs/papers/conferences/IEEE_07953046.pdf pdf]\] ||
  
  C1 | 
-	 C. Agarwal, *A. Bose*, S. Maiti, N. Islam, and S. K. Sarkar 
-	 | Enhanced Data Hiding Method Using DWT Based on Saliency Model | 
+	 C. Agarwal, *A. Bose*, S. Maiti, N. Islam, and S. K. Sarkar | 
+	 [https://ieeexplore.ieee.org/document/6663414 Enhanced Data Hiding Method Using DWT Based on Saliency Model] | 
 	 IEEE International Conference on Signal Processing, Computing and Control (ISPCC) 2013 | 
 	 Solan, India, Sep 2013. 
-	 \[[https://ieeexplore.ieee.org/document/6663414 link]\] 
 	 \[[pdfs/papers/conferences/IEEE_06663414.pdf pdf]\]
 	 
 ~~~
@@ -161,26 +147,23 @@
  
  T3 | 
 	 S. Sarkar and *A. Bose* | 
-	 Face Detection and Tracking System | 
+	 [https://www.ijser.org/onlineResearchPaperViewer.aspx?Face-Detection-and-Tracking-System.pdf Face Detection and Tracking System] | 
 	 International Journal of Scientific & Engineering Research (IJSER) | 
 	 vol. 3, no. 10, Oct 2012. 
-	 \[[https://www.ijser.org/onlineResearchPaperViewer.aspx?Face-Detection-and-Tracking-System.pdf link]\] 
 	 \[[pdfs/papers/journals/IJSER_Face-Detection-and-Tracking-System.pdf pdf]\] ||
  
  T2 | 
 	 *A. Bose*, S. Sarkar, and S. Das | 
-	 Helianthus – a Low Cost High Efficient Solar Tracking System Using AVR Microcontroller | 
+	 [https://www.ijser.org/onlineResearchPaperViewer.aspx?Helianthus-a-Low-Cost-High-Efficient-Solar-Tracking-System-Using-AVR-Microcontroller.pdf Helianthus – a Low Cost High Efficient Solar Tracking System Using AVR Microcontroller] | 
 	 International Journal of Scientific & Engineering Research (IJSER) | 
 	 vol. 3, no. 10, Oct 2012. 
-	 \[[https://www.ijser.org/onlineResearchPaperViewer.aspx?Helianthus-a-Low-Cost-High-Efficient-Solar-Tracking-System-Using-AVR-Microcontroller.pdf link]\] 
 	 \[[pdfs/papers/journals/IJSER_Helianthus-a-Low-Cost-High-Efficient-Solar-Tracking-System-Using-AVR-Microcontroller.pdf pdf]\] ||
  
  T1 | 
 	 *A. Bose* | 
-	 Mathematical Time Domain Study of Negative Feedback System Using Limiting Progression | 
+	 [https://www.ijser.org/onlineResearchPaperViewer.aspx?Mathematical-Time-Domain-Study-of-Negative-Feedback-System-Using-Limiting-Progression.pdf Mathematical Time Domain Study of Negative Feedback System Using Limiting Progression] | 
 	 International Journal of Scientific & Engineering Research (IJSER) | 
 	 vol. 3, no. 9, Sep 2012. 
-	 \[[https://www.ijser.org/onlineResearchPaperViewer.aspx?Mathematical-Time-Domain-Study-of-Negative-Feedback-System-Using-Limiting-Progression.pdf link]\] 
 	 \[[pdfs/papers/journals/IJSER_Mathematical-Time-Domain-Study-of-Negative-Feedback-System-Using-Limiting-Progression.pdf pdf]\]
 
 ~~~
@@ -191,10 +174,9 @@
  |*Author(s)*  | *Book Title* | *Contribution* | *Info.\** ||
  B1 | 
 	 D. Graupe | 
-	 Deep Learning Neural Networks Design and Case Studies | 
+	 [https://www.worldscientific.com/worldscibooks/10.1142/10190 Deep Learning Neural Networks Design and Case Studies] | 
 	 Case study: Activity Recognition in Ch. 8 and Appendices | 
-	 World Scientific Publishing Company, 2016. 
-	 \[[https://www.worldscientific.com/worldscibooks/10.1142/10190 link]\]
+	 World Scientific Publishing Company, 2016.
 
 ~~~
 
