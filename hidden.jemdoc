@@ -1,0 +1,10 @@
+# jemdoc: menu{MENU}{hidden.html}
+== Other stupid and unimportant things I did in my life
+
+~~~
+	- [pdfs/others/alu_fpga.pdf Design and implementation of a 32-bit ALU on Xilinx FPGA using VHDL]
+	- [pdfs/others/all_india_radio_final.pdf Report on various components of a radio communication system]
+	- [pdfs/others/energy_meter.pdf Prepaid system for domestic energy meter]
+	- [pdfs/others/helianthus.pdf Helianthus - the solar tracking system]
+	- [https://www.youtube.com/playlist?list=PLK5CCgQP29qAaN0Azi2ATqbiSw8NqRNGG Detect colored object in live video]
+~~~
