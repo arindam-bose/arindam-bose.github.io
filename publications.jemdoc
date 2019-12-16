@@ -14,7 +14,7 @@
  
  J2 | 
 	 A. Ameri, *A. Bose*, J. Li, and M. Soltanalian | 
-	 [https://ieeexplore.ieee.org/document/8822763 One-Bit Signal Recovery via Adaptive Thresholding] | 
+	 [https://ieeexplore.ieee.org/document/8822763 One-Bit Radar Processing With Time-Varying Sampling Thresholds] | 
 	 IEEE Transactions on Signal Processing | 
 	 vol. 67, no. 20, pp. 5297 - 5308, Sep 2019. \n
 	 /Appeared on the IEEE TSP Popular Articles list/. 
@@ -33,6 +33,13 @@
 ~~~
 {}{table}{CTABLE}
  |*Author(s)*  | *Title* | *Conference* | *Info.\** ||
+  C14 | 
+	 S. Khobahi, *A. Bose*, and M. Soltanalian | 
+	 Deep Radar Waveform Design for Efficient Automotive Radar Sensing | 
+	 IEEE Sensor Array and Multichannel Signal Processing Workshop (SAM) 2020 | 
+	 Hangzhou, China, June 2020. /Submitted, Invited/. 
+	 \[pdf\] ||
+	 
  C13 | 
 	 S. Khobahi, *A. Bose*, and M. Soltanalian | 
 	 Deep One-Bit Compressive Autoencoder | 
