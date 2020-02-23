@@ -5,12 +5,12 @@
 ~~~
 {}{table}{JTABLE}
  |*Author(s)*  | *Title* | *Journal* | *Info.\** ||
-#J3 | 
-#	 *A. Bose*, S. Khobahi, and M. Soltanalian | 
-#	 Joint Optimization of Waveform Covariance Matrix and Antenna Selection for MIMO Radar with an Application to Aerial Drones | 
-#	 IEEE Transactions on Signal Processing | 
-#	 /Submitted/.
-#	 \[pdf\]	 ||
+ J3 | 
+	 *A. Bose*, S. Khobahi, and M. Soltanalian | 
+	 Joint Optimization of Waveform Covariance Matrix and Antenna Selection for MIMO Radar with an Application to Aerial Drones | 
+	 IEEE Transactions on Aerospace and Electronic Systems | 
+	 /Submitted/. 
+	 \[pdf\]	 ||
  
  J2 | 
 	 A. Ameri, *A. Bose*, J. Li, and M. Soltanalian | 
@@ -33,25 +33,32 @@
 ~~~
 {}{table}{CTABLE}
  |*Author(s)*  | *Title* | *Conference* | *Info.\** ||
-  C14 | 
+ C15 | 
+	 S. Khobahi, *A. Bose*, and M. Soltanalian | 
+	 Deep One-Bit Compressive Autoencoder | 
+	 IEEE Statistical Signal Processing Workshop (SSP) 2020 | 
+	 Rio de Janeiro, Brazil, July 2020. /Submitted/. 
+	 \[[https://arxiv.org/abs/1912.05539 preprint]\] ||
+	 
+ C14 | 
+	 C. Agarwal, S. Khobahi, *A. Bose*, M. Soltanalian, and D. Schonfeld | 
+	 Deep-URL: A Model-Aware Approach to Blind Deconvolution Based on Deep Unfolded Richardson-Lucy Network | 
+	 IEEE International Conference on Image Processing (ICIP) 2020 | 
+	 Abu Dhabi, UAE, October 2020. /Submitted, Invited/. 
+	 \[[https://arxiv.org/abs/2002.01053 preprint]\] ||
+  
+ C13 | 
 	 S. Khobahi, *A. Bose*, and M. Soltanalian | 
 	 Deep Radar Waveform Design for Efficient Automotive Radar Sensing | 
 	 IEEE Sensor Array and Multichannel Signal Processing Workshop (SAM) 2020 | 
 	 Hangzhou, China, June 2020. /Submitted, Invited/. 
 	 \[[https://arxiv.org/abs/1912.08180 preprint]\] ||
 	 
- C13 | 
-	 S. Khobahi, *A. Bose*, and M. Soltanalian | 
-	 Deep One-Bit Compressive Autoencoder | 
-	 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2020 | 
-	 Barcelona, Spain, May 2020. /Submitted/. 
-	 \[[https://arxiv.org/abs/1912.05539 preprint]\] ||
-	 
  C12 | 
 	 *A. Bose*, S. Khobahi, and M. Soltanalian | 
 	 Joint Optimization of Waveform Covariance Matrix and Antenna Selection for MIMO Radar | 
 	 IEEE Asilomar Conference on Signals, Systems, and Computers 2019 | 
-	 Pacific Grove, CA, Nov 2019. /Invited/. 
+	 Pacific Grove, CA, Nov 2019. 
 	 \[[pdfs/presentations/Asilomar2019_1212.pdf presentation]\] 
 	 \[[https://arxiv.org/abs/1910.07591 preprint]\] ||
  
