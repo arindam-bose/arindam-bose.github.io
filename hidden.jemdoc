@@ -1,16 +1,18 @@
 # jemdoc: menu{MENU}{hidden.html}
-== Other stupid and unimportant things I did in my life
+== Other /{{<strike>stupid and un</strike>}}/important things I did in my life
 
 ~~~
 	- [pdfs/others/alu_fpga.pdf Design and implementation of a 32-bit ALU on Xilinx FPGA using VHDL]
 	- [pdfs/others/all_india_radio_final.pdf Report on various components of a radio communication system]
 	- [pdfs/others/energy_meter.pdf Prepaid system for domestic energy meter]
 	- [pdfs/others/helianthus.pdf Helianthus - the solar tracking system]
-	- [https://www.youtube.com/playlist?list=PLK5CCgQP29qAaN0Azi2ATqbiSw8NqRNGG Detect colored object in live video]
+	- [https://www.youtube.com/playlist?list=PLK5CCgQP29qAaN0Azi2ATqbiSw8NqRNGG Live video manipulation]
 
-Some other stupid links
-	- [/chalk.html Chalk sculpting]
-	- [/toggle.html Good-cheap-fast tradeoff triangle]
+Some other /stupid/ links in one place with high density of stupidity
+	- [/chalk.html Amateur chalk sculpting]
+	- [/logos.html Some logos I designed]
+	- [/toggle.html Good-cheap-fast tradeoff triangle in pure html]
 	- [https://github.com/arindam-bose/qledge-Android Android game - Qledge]
 	- [https://github.com/arindam-bose/latex-symbols-template Latex symbols template project]
+	- [https://github.com/arindam-bose/the-webcam-manager Simple program for motion detection in live video that notifies you trough email]
 ~~~
