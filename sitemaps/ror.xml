@@ -29,6 +29,14 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
+     <link>https://arindambose.com/hidden.html</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
      <link>https://arindambose.com/pdfs/others/cv_arindam.pdf</link>
      <title></title>
      
@@ -110,6 +118,22 @@
 </item>
 <item>
      <link>https://arindambose.com/pdfs/papers/journals/IEEE_08314765.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://arindambose.com/pdfs/papers/conferences/IEEE_09048709.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://arindambose.com/pdfs/papers/conferences/IEEE_09048693.pdf</link>
      <title></title>
      
      <ror:updatePeriod></ror:updatePeriod>
@@ -254,6 +278,62 @@
 </item>
 <item>
      <link>https://arindambose.com/pdfs/papers/journals/IJSER_Mathematical-Time-Domain-Study-of-Negative-Feedback-System-Using-Limiting-Progression.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://arindambose.com/pdfs/others/alu_fpga.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://arindambose.com/pdfs/others/all_india_radio_final.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://arindambose.com/pdfs/others/energy_meter.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://arindambose.com/pdfs/others/helianthus.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://arindambose.com/chalk.html</link>
+     <title>Chalk Sculpting</title>
+     <description>Chalk Sculpting</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://arindambose.com/logos.html</link>
+     <title>Logos</title>
+     <description>Logos</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://arindambose.com/toggle.html</link>
      <title></title>
      
      <ror:updatePeriod></ror:updatePeriod>

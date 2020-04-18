@@ -1,6 +1,7 @@
 https://arindambose.com/
 https://arindambose.com/index.html
 https://arindambose.com/publications.html
+https://arindambose.com/hidden.html
 https://arindambose.com/pdfs/others/cv_arindam.pdf
 https://arindambose.com/pdfs/others/resume_arindam.pdf
 https://arindambose.com/pdfs/presentations/Asilomar2019_1347.pdf
@@ -12,6 +13,8 @@ https://arindambose.com/pdfs/posters/ICASSP_Low-Rank_Matrix_Recovery_from_One-Bi
 https://arindambose.com/pdfs/posters/ICASSP_Non-Convex_Shredded_Signal_Reconstruction_via_Sparsity_Enhancement.pdf
 https://arindambose.com/pdfs/papers/journals/IEEE_08822763.pdf
 https://arindambose.com/pdfs/papers/journals/IEEE_08314765.pdf
+https://arindambose.com/pdfs/papers/conferences/IEEE_09048709.pdf
+https://arindambose.com/pdfs/papers/conferences/IEEE_09048693.pdf
 https://arindambose.com/pdfs/papers/conferences/IEEE_08874429.pdf
 https://arindambose.com/pdfs/presentations/IRMMW2019_Nonlinear_Diffraction_THz.pdf
 https://arindambose.com/pdfs/papers/conferences/IEEE_08874118.pdf
@@ -30,3 +33,10 @@ https://arindambose.com/pdfs/papers/conferences/IJCST_DWT_watermarking.pdf
 https://arindambose.com/pdfs/papers/journals/IJSER_Face-Detection-and-Tracking-System.pdf
 https://arindambose.com/pdfs/papers/journals/IJSER_Helianthus-a-Low-Cost-High-Efficient-Solar-Tracking-System-Using-AVR-Microcontroller.pdf
 https://arindambose.com/pdfs/papers/journals/IJSER_Mathematical-Time-Domain-Study-of-Negative-Feedback-System-Using-Limiting-Progression.pdf
+https://arindambose.com/pdfs/others/alu_fpga.pdf
+https://arindambose.com/pdfs/others/all_india_radio_final.pdf
+https://arindambose.com/pdfs/others/energy_meter.pdf
+https://arindambose.com/pdfs/others/helianthus.pdf
+https://arindambose.com/chalk.html
+https://arindambose.com/logos.html
+https://arindambose.com/toggle.html
