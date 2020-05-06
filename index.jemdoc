@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{index.html}, showsource
+# jemdoc: menu{MENU}{index.html}
 = Arindam Bose
 {{<link rel="shortcut icon" href="images/favicon_16.ico" type="image/x-icon" />}}
 ~~~
@@ -20,7 +20,7 @@ PhD Candidate
 
 
 == About Me
-	- I am currently a Ph.D. candidate at the [https://ece.uic.edu Department of Electrical and Computer Engineering], [http://www.uic.edu/ University of Illinois at Chicago]. I work at [https://waveopt-lab.uic.edu WaveOPT lab], UIC under supervision of [https://msol.people.uic.edu/ Prof. Mojtaba Soltanalian]  since 2016.
+	- I am currently a final year Ph.D. candidate at the [https://ece.uic.edu Department of Electrical and Computer Engineering], [http://www.uic.edu/ University of Illinois at Chicago]. I work at [https://waveopt-lab.uic.edu WaveOPT lab], UIC under supervision of [https://msol.people.uic.edu/ Prof. Mojtaba Soltanalian]  since 2016.
 	- I received my B.Tech in Electronics and Communication Engineering from [http://www.wbut.ac.in/ West Bengal University of Technology], India in 2012.
 	- Before joining UIC, I spent my time doing software designing, development, and maintenance as an IT specialist. I have almost one and half years of work experience in [https://www.cognizant.com/ Cognizant Technology Solutions] as a Java Developer during 2013-14.
 	- Above everything, I am a part time artist and amateur photographer. My subject is mostly abstract, and black and white is my color. 
@@ -87,8 +87,14 @@ and the National Council of Science Museums (Jan 2011)
 	- Student member, [https://www.siam.org/ SIAM] (2016 - Present)
 	
 == Academic Services
-	- Journal Article Referee: [https://signalprocessingsociety.org/publications-resources/ieee-transactions-signal-processing IEEE Transaction of Signal Processing] (2018 - Present), [https://www.journals.elsevier.com/signal-processing Elsevier Signal Processing] (2018 - Present)
-	- Conference Paper Referee: [http://www.ieeevtc.org/vtc2018fall/ IEEE VTC 2018], [http://eusipco2019.org/ EUSIPCO 2019], [http://www.sam2020.cn/ IEEE SAM 2020]
+	- Journal Article Referee: 
+		-- [https://signalprocessingsociety.org/publications-resources/ieee-transactions-signal-processing IEEE Transaction of Signal Processing] (2018 - Present)
+		-- [https://www.journals.elsevier.com/signal-processing Elsevier Signal Processing] (2018 - Present)
+		-- [https://digital-library.theiet.org/content/journals/iet-spr IET Signal Processing] (2020 - Present)
+	- Conference Paper Referee: 
+		-- [http://www.ieeevtc.org/vtc2018fall/ IEEE VTC 2018]
+		-- [http://eusipco2019.org/ EUSIPCO 2019]
+		-- [http://www.sam2020.cn/ IEEE SAM 2020]
 	- IEEE YP Chair Chicago Chapter, [https://ewh.ieee.org/r4/chicago/sps/ IEEE Signal Processing Society] (Apr 2019 - Present)
 	- Vice President, [https://journalclub.org.uic.edu/ UIC ECE Journal Club] (Aug 2016 - Aug 2017)
 	- Chief Robotics Coordinator, [https://futureengineering.in/ Future Institute of Engineering and Management] (Apr 2011 - May 2012)
