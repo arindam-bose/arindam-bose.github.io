@@ -5,10 +5,15 @@
 ~~~
 {}{table}{JTABLE}
  |*Author(s)*  | *Title* | *Journal* | *Info.\** ||
+  J4 | 
+	 *A. Bose*, B. Tang, W. Huang, M. Soltanalian, and J. Li  | 
+	 Waveform Design for Mutual Interference Mitigation in Automotive Radar | 
+	 IEEE Transactions on Signal Processing | 
+	 /Submitted/. ||
  J3 | 
 	 *A. Bose*, S. Khobahi, and M. Soltanalian | 
-	 Joint Optimization of Waveform Covariance Matrix and Antenna Selection for MIMO Radar with an Application to Aerial Drones | 
-	 IEEE Transactions on Aerospace and Electronic Systems | 
+	 Efficient Waveform Covariance Matrix Design and Antenna Selection for MIMO Radar | 
+	 Elsevier Journal of Signal Processing | 
 	 /Submitted/. 
 	 \[[https://arxiv.org/abs/2002.06025 preprint]\]	 ||
  
@@ -33,25 +38,30 @@
 ~~~
 {}{table}{CTABLE}
  |*Author(s)*  | *Title* | *Conference* | *Info.\** ||
+ C16 | 
+	 *A. Bose*, A. Ghauri, and M. Soltanalian | 
+	 Limits of Transmit Beamforming for Massive MIMO Radar | 
+	 IEEE Asilomar Conference on Signals, Systems, and Computers 2020 | 
+	 Pacific Grove, CA, Nov 2020.  /Accepted, Invited/. ||
  C15 | 
 	 S. Khobahi, *A. Bose*, and M. Soltanalian | 
 	 Deep One-Bit Compressive Autoencoder | 
-	 IEEE Statistical Signal Processing Workshop (SSP) 2020 | 
-	 Rio de Janeiro, Brazil, July 2020. /Submitted/. 
+	 IEEE Global Communications Conference (Globecom) 2020 | 
+	 Taipei, Taiwan, Dec 2020. /Submitted/. 
 	 \[[https://arxiv.org/abs/1912.05539 preprint]\] ||
 	 
  C14 | 
 	 C. Agarwal, S. Khobahi, *A. Bose*, M. Soltanalian, and D. Schonfeld | 
 	 Deep-URL: A Model-Aware Approach to Blind Deconvolution Based on Deep Unfolded Richardson-Lucy Network | 
 	 IEEE International Conference on Image Processing (ICIP) 2020 | 
-	 Abu Dhabi, UAE, October 2020. /Accepted/. 
+	 Abu Dhabi, UAE, Oct 2020. /Accepted/. 
 	 \[[https://arxiv.org/abs/2002.01053 preprint]\] ||
   
  C13 | 
 	 S. Khobahi, *A. Bose*, and M. Soltanalian | 
 	 Deep Radar Waveform Design for Efficient Automotive Radar Sensing | 
 	 IEEE Sensor Array and Multichannel Signal Processing Workshop (SAM) 2020 | 
-	 Hangzhou, China, June 2020. /Accepted, Invited/. 
+	 Hangzhou, China, June 2020. /Invited/. 
 	 \[[https://arxiv.org/abs/1912.08180 preprint]\] 
 	 \[[pdfs/presentations/SAM2020_Deep_Radar_Waveform_Design_for_Efficient_Automotive_Radar_Sensing.pdf presentation]\] 
 	 \[[https://drive.google.com/file/d/1t0KKAjFUI0lH80a7P_iUGRnpxZPEh8Mr/view?usp=sharing video]\] ||
