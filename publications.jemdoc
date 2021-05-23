@@ -43,6 +43,13 @@
 ~~~
 {}{table}{CTABLE}
  |*Author(s)*  | *Title* | *Conference* | *Info.\** ||
+ C16 | 
+	 S. Khobahi, *A. Bose*, and M. Soltanalian | 
+	 Deep One-Bit Compressive Autoencoder | 
+	 IEEE Statistical Signal Processing Workshop (SSP) 2021 | 
+	 Virtual - Rio de Janeiro, Brazil, July 2021. 
+   \[[https://arxiv.org/abs/1912.05539 arXiv]\] ||
+   
  C15 | 
 	 *A. Bose*, A. Ghauri, and M. Soltanalian | 
 	 Limits of Transmit Beamforming for Massive MIMO Radar | 
@@ -168,11 +175,6 @@
 ~~~
 {}{table}{BTABLE}
  |*Author(s)*  | *Title* | *Publisher* | *Info.\** ||
- T6 | 
-	 S. Khobahi, *A. Bose*, and M. Soltanalian | 
-	 [https://arxiv.org/abs/1912.05539 Deep One-Bit Compressive Autoencoder] | 
-	  | 
-	 \[[https://arxiv.org/abs/1912.05539 preprint]\] ||
  T5 | 
 	 S. Maiti, C. Agarwal, *A. Bose*, and S. K. Sarkar | 
 	 Robust Data Hiding Technique In Wavelet Domain Using Saliency Map | 
@@ -227,15 +229,16 @@
 
 ~~~
 
-#=== Patents:
-# ~~~
-#{}{table}{PTABLE}
-# |*Inventors(s)*  | *Title* | *Info.\** ||
-# P1 | 
-#	  |
-#	  | 
-#	 
-#~~~
+=== Patents:
+~~~
+{}{table}{PTABLE}
+ |*Inventors(s)*  | *Title* | *Info.\** ||
+ P1 | 
+	 P. Wang, T.-K. Akino, P. Orlik, *A. Bose* |
+	 [https://patents.google.com/patent/US20210064013A1/en Learning-Based See-Through Sensing Suitable for Factory Automation] | 
+   [https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20210064013.PGNR.  US Patent and Trademark Office], \n Patent ID:	20210064013, Appl. No.:	16/552116, \n Filed:	August 27, 2019
+	 
+~~~
 
 \n\n
 *\C Copyright reserved by the corresponding publishing company. The articles may be downloaded and reused for research purpose only.
