@@ -4,16 +4,10 @@
 === Doctoral Dissertation:
 	- [https://indigo.uic.edu/articles/thesis/Waveform_Synthesis_for_Active_Sensing_with_Emerging_Applications/15261999  Waveform Synthesis for Active Sensing with Emerging Applications] (2021)
 
-=== Journal Papers:
+=== Peer-Reviewed Journal Papers:
 ~~~
 {}{table}{JTABLE}
  |*Author(s)*  | *Title* | *Journal* | *Info.\** ||
- J5 | 
-	 *A. Bose*, B. Tang, W. Huang, M. Soltanalian, and J. Li  | 
-	 Waveform Design for Mutual Interference Mitigation in Automotive Radar | 
-	 IEEE Transactions on Signal Processing | 
-	 /Submitted/. 2021. 
-	 \[[https://arxiv.org/abs/2208.04398 arXiv]\] ||
  J4 | 
 	 *A. Bose*, B. Tang, M. Soltanalian, and J. Li  | 
 	 [https://doi.org/10.1109/TVT.2021.3108714 Mutual Interference Mitigation for Multiple Connected Automotive Radar Systems] | 
@@ -50,6 +44,18 @@
 ~~~
 {}{table}{CTABLE}
  |*Author(s)*  | *Title* | *Conference* | *Info.\** ||
+ C18 | 
+	 Z. Esmaeilbeig, *A. Bose*, and M. Soltanalian | 
+	 Ambiguity Function Shaping in FMCW Automotive Radar | 
+	 IEEE Asilomar Conference on Signals, Systems, and Computers 2023 | 
+	 Pacific Grove, CA, Nov 2023. /Submitted/. ||
+
+ C17 | 
+	 Z. Esmaeilbeig, *A. Bose*, and M. Soltanalian | 
+	 Mutual Interference Mitigation in PMCW Automotive Radar | 
+	 IEEE European Microwave Week (EuMW) 2023 | 
+	 Berlin, Germany Sep 2023. /Invited/. ||
+
  C16 | 
 	 S. Khobahi, *A. Bose*, and M. Soltanalian | 
 	 [https://doi.org/10.1109/SSP49050.2021.9513806 Deep One-Bit Compressive Autoencoding] | 
@@ -188,10 +194,16 @@
 
 ~~~
 
-=== Technical Documents:
+=== Technical Documents and Unpublished Works:
 ~~~
 {}{table}{BTABLE}
  |*Author(s)*  | *Title* | *Publisher* | *Info.\** ||
+ T6 | 
+	 *A. Bose*, B. Tang, W. Huang, M. Soltanalian, and J. Li  | 
+	 [https://arxiv.org/abs/2208.04398 Waveform Design for Mutual Interference Mitigation in Automotive Radar] | 
+	 ArXiv | 
+	 Aug 2022. 
+	 \[[https://arxiv.org/pdf/2208.04398.pdf pdf]\] ||
  T5 | 
 	 S. Maiti, C. Agarwal, *A. Bose*, and S. K. Sarkar | 
 	 Robust Data Hiding Technique In Wavelet Domain Using Saliency Map | 
@@ -238,13 +250,14 @@
 	 *A. Bose*, J. Li, M. Soltanalian | 
 	 Next Generation Cognitive Radar Systems | 
 	 One-Bit Cognitive Radar | 
-	 The Institution of Engineering and Technology (IET), 2022. /In Production./ ||
+	 The Institution of Engineering and Technology (IET), 2023. /In Production./ ||
  B1 | 
 	 D. Graupe | 
 	 D. Graupe, *A. Bose* |
 	 [https://doi.org/10.1142/10190 Deep Learning Neural Networks Design and Case Studies] | 
 	 Case study: Activity Recognition in Ch. 8 and Appendices | 
 	 World Scientific Publishing Company, 2016.
+	 \[[pdfs/chapters/deep_learning_book_chapter.pdf pdf]\]
 
 ~~~
 
@@ -255,7 +268,7 @@
  P1 | 
 	 P. Wang, T.-K. Akino, P. Orlik, *A. Bose* |
 	 [https://patents.google.com/patent/US20210064013A1/en Learning-Based See-Through Sensing Suitable for Factory Automation] | 
-   [https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20210064013.PGNR.  US Patent and Trademark Office], \n Patent ID:	20210064013, Appl. No.:	16/552116, \n Filed:	August 27, 2019
+   	 [https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20210064013.PGNR.  US Patent and Trademark Office], \n Patent ID:	20210064013, Appl. No.:	16/552116, \n Filed:	August 27, 2019
 	 
 ~~~
 
