@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
 <channel>
-  <title>ROR Sitemap for https://arindambose.com/</title>
-  <link>https://arindambose.com/</link>
+  <title>ROR Sitemap for http://arindambose.com/</title>
+  <link>http://arindambose.com/</link>
 
 <item>
      <link>https://arindambose.com/</link>
@@ -53,7 +53,15 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://arindambose.com/pdfs/presentations/Asilomar2019_1347.pdf</link>
+     <link>https://arindambose.com/pdfs/presentations/Asilomar_2020_PDF.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://arindambose.com/pdfs/presentations/SAM2020_Deep_Radar_Waveform_Design_for_Efficient_Automotive_Radar_Sensing.pdf</link>
      <title></title>
      
      <ror:updatePeriod></ror:updatePeriod>
@@ -62,6 +70,14 @@
 </item>
 <item>
      <link>https://arindambose.com/pdfs/presentations/Asilomar2019_1212.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://arindambose.com/pdfs/presentations/Asilomar2019_1347.pdf</link>
      <title></title>
      
      <ror:updatePeriod></ror:updatePeriod>
@@ -109,6 +125,22 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
+     <link>https://arindambose.com/pdfs/papers/journals/IEEE_09525348.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://arindambose.com/pdfs/papers/journals/Elsevier_2021_107985.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
      <link>https://arindambose.com/pdfs/papers/journals/IEEE_08822763.pdf</link>
      <title></title>
      
@@ -118,6 +150,54 @@
 </item>
 <item>
      <link>https://arindambose.com/pdfs/papers/journals/IEEE_08314765.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://arindambose.com/pdfs/papers/conferences/IEEE_09513806.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://arindambose.com/pdfs/presentations/SSP2021_Deep_One-Bit_Compressive_Autoencoder.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://arindambose.com/pdfs/papers/conferences/IEEE_09443356.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://arindambose.com/pdfs/papers/conferences/IEEE_09190825.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://arindambose.com/pdfs/presentations/ICIP_2020_video_presentation.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://arindambose.com/pdfs/papers/conferences/IEEE_09104367.pdf</link>
      <title></title>
      
      <ror:updatePeriod></ror:updatePeriod>
@@ -149,7 +229,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://arindambose.com/pdfs/presentations/IRMMW2019_Nonlinear_Diffraction_THz.pdf</link>
+     <link>https://arindambose.com/pdfs/presentations/IRMMW2019_Learning_THz.pdf</link>
      <title></title>
      
      <ror:updatePeriod></ror:updatePeriod>
@@ -158,6 +238,14 @@
 </item>
 <item>
      <link>https://arindambose.com/pdfs/papers/conferences/IEEE_08874118.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://arindambose.com/pdfs/presentations/IRMMW2019_Nonlinear_Diffraction_THz.pdf</link>
      <title></title>
      
      <ror:updatePeriod></ror:updatePeriod>
@@ -181,7 +269,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://arindambose.com/pdfs/presentations/SAM2018_Generalized_Cyclic_Algorithms.pdf</link>
+     <link>https://arindambose.com/pdfs/papers/conferences/IEEE_08448920.pdf</link>
      <title></title>
      
      <ror:updatePeriod></ror:updatePeriod>
@@ -189,7 +277,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://arindambose.com/pdfs/papers/conferences/IEEE_08448920.pdf</link>
+     <link>https://arindambose.com/pdfs/presentations/SAM2018_Generalized_Cyclic_Algorithms.pdf</link>
      <title></title>
      
      <ror:updatePeriod></ror:updatePeriod>
@@ -229,7 +317,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://arindambose.com/pdfs/presentations/ISPCC2013_Enhanced_Data_Hiding_Method.pdf</link>
+     <link>https://arindambose.com/pdfs/papers/conferences/IEEE_06663414.pdf</link>
      <title></title>
      
      <ror:updatePeriod></ror:updatePeriod>
@@ -237,7 +325,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://arindambose.com/pdfs/papers/conferences/IEEE_06663414.pdf</link>
+     <link>https://arindambose.com/pdfs/presentations/ISPCC2013_Enhanced_Data_Hiding_Method.pdf</link>
      <title></title>
      
      <ror:updatePeriod></ror:updatePeriod>
@@ -285,6 +373,14 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
+     <link>https://arindambose.com/pdfs/chapters/deep_learning_book_chapter.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
      <link>https://arindambose.com/pdfs/others/alu_fpga.pdf</link>
      <title></title>
      
@@ -317,9 +413,9 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://arindambose.com/chalk.html</link>
-     <title>Chalk Sculpting</title>
-     <description>Chalk Sculpting</description>
+     <link>https://arindambose.com/comics.html</link>
+     <title>Logos</title>
+     <description>Logos</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
@@ -333,9 +429,17 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
+     <link>https://arindambose.com/chalk.html</link>
+     <title>Chalk Sculpting</title>
+     <description>Chalk Sculpting</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
      <link>https://arindambose.com/toggle.html</link>
-     <title></title>
-     
+     <title>Logos</title>
+     <description>Logos</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
