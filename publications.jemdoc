@@ -48,13 +48,19 @@
 	 Z. Esmaeilbeig, *A. Bose*, and M. Soltanalian | 
 	 Ambiguity Function Shaping in FMCW Automotive Radar | 
 	 IEEE Asilomar Conference on Signals, Systems, and Computers 2023 | 
-	 Pacific Grove, CA, Nov 2023. /Submitted/. ||
+	 Pacific Grove, CA, Nov 2023. 
+	 \[pdf\] 
+	 \[arXiv\] 
+	 \[[pdfs/posters/Asilomar2023_Ambiguity_Function_Shaping_in_FMCW_Automotive_Radar.pdf poster]\] ||
 
  C17 | 
 	 Z. Esmaeilbeig, *A. Bose*, and M. Soltanalian | 
-	 Mutual Interference Mitigation in PMCW Automotive Radar | 
+	 [https://doi.org/10.23919/EuRAD58043.2023.10289487 Mutual Interference Mitigation in PMCW Automotive Radar] | 
 	 IEEE European Microwave Week (EuMW) 2023 | 
-	 Berlin, Germany Sep 2023. /Invited/. ||
+	 Berlin, Germany Sep 2023. /Invited/. 
+	 \[[pdfs/papers/conferences/IEEE_10289487.pdf pdf]\] 
+	 \[[https://arxiv.org/abs/2306.10188 arXiv]\] 
+	 \[[pdfs/presentations/EuRAD2023_Mutual_Interference_Mitigation_in_PMCW_Automotive_Radar.pdf presentation]\] ||
 
  C16 | 
 	 S. Khobahi, *A. Bose*, and M. Soltanalian | 
@@ -158,7 +164,7 @@
 	 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2018 | 
 	 Calgary, Alberta, Canada, Apr 2018. 
 	 \[[pdfs/papers/conferences/IEEE_08461367.pdf pdf]\] 
-	 \[[pdfs/posters/ICASSP_Low-Rank_Matrix_Recovery_from_One-Bit_Comparison_Information.pdf poster]\] ||
+	 \[[pdfs/posters/ICASSP2018_Low-Rank_Matrix_Recovery_from_One-Bit_Comparison_Information.pdf poster]\] ||
  
  C4 | 
 	*A. Bose*, N. Mohammadi and M. Soltanalian | 
@@ -166,7 +172,7 @@
 	 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2018 | 
 	 Calgary, Alberta, Canada, Apr 2018. 
 	 \[[pdfs/papers/conferences/IEEE_08462572.pdf pdf]\] 
-	 \[[pdfs/posters/ICASSP_Designing_Signals_with_Good_Correlation_and_Distribution_Properties.pdf poster]\] ||
+	 \[[pdfs/posters/ICASSP2018_Designing_Signals_with_Good_Correlation_and_Distribution_Properties.pdf poster]\] ||
 
  C3 | 
 	 *A. Bose* and M. Soltanalian | 
@@ -182,14 +188,14 @@
 	 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2017 | 
 	 New Orleans, LA, Mar 2017. 
 	 \[[pdfs/papers/conferences/IEEE_07953046.pdf pdf]\] 
-	 \[[pdfs/posters/ICASSP_Non-Convex_Shredded_Signal_Reconstruction_via_Sparsity_Enhancement.pdf poster]\] ||
+	 \[[pdfs/posters/ICASSP2017_Non-Convex_Shredded_Signal_Reconstruction_via_Sparsity_Enhancement.pdf poster]\] ||
  
  C1 | 
 	 C. Agarwal, *A. Bose*, S. Maiti, N. Islam, and S. K. Sarkar | 
 	 [https://doi.org/10.1109/ISPCC.2013.6663414 Enhanced Data Hiding Method Using DWT Based on Saliency Model] | 
 	 IEEE International Conference on Signal Processing, Computing and Control (ISPCC) 2013 | 
 	 Solan, India, Sep 2013. 
-	 \[[pdfs/papers/conferences/IEEE_06663414.pdf pdf]\]
+	 \[[pdfs/papers/conferences/IEEE_06663414.pdf pdf]\] 
 	 \[[pdfs/presentations/ISPCC2013_Enhanced_Data_Hiding_Method.pdf presentation]\] 
 
 ~~~
@@ -244,19 +250,20 @@
 === Book Chapters:
 ~~~
 {}{table}{BTABLE}
- |*Book Author(s) \/ Editor(s)*  | *Chapter Author(s)*  | *Book Title* | *Chapter* | *Publisher* ||
+ |*Book Author(s) \/ Editor(s)*  | *Chapter Author(s)*  | *Book Title* | *Chapter* | *Publisher\** ||
  B2 | 
 	 K. V. Mishra, B. Shankar, and M. Rangaswamy |
 	 *A. Bose*, J. Li, M. Soltanalian | 
 	 Next Generation Cognitive Radar Systems | 
-	 One-Bit Cognitive Radar | 
-	 The Institution of Engineering and Technology (IET), 2023. /In Production./ ||
+	 Ch. 13: One-Bit Cognitive Radar | 
+	 The Institution of Engineering and Technology (IET), 2024. /In Production./ 
+	 \[pdf\] ||
  B1 | 
 	 D. Graupe | 
 	 D. Graupe, *A. Bose* |
 	 [https://doi.org/10.1142/10190 Deep Learning Neural Networks Design and Case Studies] | 
 	 Case study: Activity Recognition in Ch. 8 and Appendices | 
-	 World Scientific Publishing Company, 2016.
+	 World Scientific Publishing Company, 2016. 
 	 \[[pdfs/chapters/deep_learning_book_chapter.pdf pdf]\]
 
 ~~~
@@ -268,7 +275,8 @@
  P1 | 
 	 P. Wang, T.-K. Akino, P. Orlik, *A. Bose* |
 	 [https://patents.google.com/patent/US20210064013A1/en Learning-Based See-Through Sensing Suitable for Factory Automation] | 
-   	 [https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20210064013  US Patent and Trademark Office], \n Patent ID:	20210064013, Appl. No.:	16/552116, \n Filed:	August 27, 2019
+   	 [https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20210064013  US Patent and Trademark Office], \n Patent ID:	20210064013, Appl. No.:	16/552116, \n Filed:	August 27, 2019 
+	 \[[pdfs/patents/Patent2021_US20210064013A1.pdf pdf]\]
 	 
 ~~~
 
