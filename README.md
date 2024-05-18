@@ -4,4 +4,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arindam-bose&layout=compact&theme=github_dark)
 
-<!-- ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arindam_bose&layout=compact&theme=github_dark) -->
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arindam_bose&layout=compact&theme=github_dark)
