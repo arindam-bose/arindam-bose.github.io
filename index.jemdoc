@@ -8,7 +8,7 @@ Ph.D., Electrical Engineering
 \n Senior Research Engineer
 \n [https://www.kmbradar.com/ KMB Telematics Inc.]
 \n Washington DC, USA
-\n\[[pdfs/others/cv_arindam.pdf Curriculum Vitae]\] \[[pdfs/others/resume_arindam.pdf Résumé]\]
+\n\[[pdfs/others/arindam_bose_cv.pdf Curriculum Vitae]\] \[[pdfs/others/arindam_bose_resume.pdf Résumé]\]
 
 ==  Contact
 	E-Mail: abose \[at\] kmb \[dot\] ac
@@ -20,7 +20,11 @@ Ph.D., Electrical Engineering
 
 
 == About Me
-	- I am currently working as a senior research engineer at [https://www.kmbradar.com/ KMB Telematics Inc.] We make high-resolution imaging radar sensors for automotive cars and for UAV detection purposes.
+	- I am a Radar Systems Engineer with specialized expertise in imaging radar systems for drone detection and tracking applications. 
+	  Proven experience in designing, developing, and optimizing radar signal processing algorithms for high-resolution imaging, target classification, and clutter suppression in complex environments. 
+	  Strong background in MIMO radar, beamforming, Doppler processing, and real-time embedded implementation. 
+	  Adept at designing and integrating radar hardware with advanced signal processing pipelines to enhance situational awareness in airborne and ground-based surveillance systems. 
+	- Currently working as a senior research engineer at [https://www.kmbradar.com/ KMB Telematics Inc.] We make high-resolution imaging radar sensors for automotive cars and for UAV detection purposes.
 	- In 2021, I finished my Ph.D. in Electrical Engineering from the [http://www.uic.edu/ University of Illinois at Chicago] under supervision of [https://msol.people.uic.edu/ Prof. Mojtaba Soltanalian]. I was a part of [https://waveopt-lab.uic.edu WaveOPT lab], UIC. Find my thesis [https://indigo.uic.edu/articles/thesis/Waveform_Synthesis_for_Active_Sensing_with_Emerging_Applications/15261999 here].
 	- I received my B.Tech. in Electronics and Communication Engineering from [http://www.wbut.ac.in/ West Bengal University of Technology] (currently known as [http://makautexam.net/ Maulana Abul Kalam Azad University of Technology]), Kolkata, India in 2012.
 	- Before joining UIC, I spent my time doing software designing, development, and maintenance as a programmer analyst. I have almost one and half years of work experience in [https://www.cognizant.com/ Cognizant Technology Solutions] as a Java Developer during 2013-14.
@@ -59,6 +63,8 @@ Ph.D., Electrical Engineering
 		-- Co-founder and CEO (Jan 2012 - Apr 2013)
 		
 == Teaching Experiences
+	- Guest Lecture, University of Illinois at Chicago
+		-- Detection and Estimation Theory (ECE 531), Department of ECE (Fall 2019)
 	- Teaching Assistant, University of Illinois at Chicago
 		-- Statistical Signal Processing (ECE 418), Department of ECE (Spring 2018, 2019, 2020)
 		-- Digital Signal Processing II (ECE 417), Department of ECE (Fall 2016, 2017, 2018)
@@ -105,10 +111,10 @@ and the [https://ncsm.gov.in/ National Council of Science Museums] (Jan 2011)
 		-- [https://www.mdpi.com/journal/symmetry MDPI Symmetry] (2022 - Present)
 
 	- Conference Paper Referee: 
-		-- [https://ssp2021.signalprocessingsociety.org/ssp2020.cetuc.puc-rio.br/index.html IEEE SSP 2021]
-		-- [http://www.sam2020.cn/ IEEE SAM 2020]
-		-- [https://ieeexplore.ieee.org/xpl/conhome/8893974/proceeding EUSIPCO 2019]
-		-- [http://www.ieeevtc.org/vtc2018fall/ IEEE VTC 2018]
+		-- [https://ssp2021.signalprocessingsociety.org/ssp2020.cetuc.puc-rio.br/index.html IEEE Statistical Signal Processing Workshop (SSP) 2021]
+		-- [http://www.sam2020.cn/ IEEE Sensor Array & Multichannel Signal Processing Workshop (SAM) 2020]
+		-- [https://ieeexplore.ieee.org/xpl/conhome/8893974/proceeding European Signal Processing Conference 2019 (EUSIPCO) 2019]
+		-- [http://www.ieeevtc.org/vtc2018fall/ IEEE Vehicular Technology Conference (VTC) 2018]
 	- Technical Program Committee Member, [https://wfiot2022.iot.ieee.org/ IEEE 8th World Forum on Internet of Things], [https://wfiot2022.iot.ieee.org/track-4/ Automotive IoT: Technology Trends, Enablers and Opportunities], Yokohama, Japan (Nov 2022)
 	- IEEE YP Chair Chicago Chapter, [https://ewh.ieee.org/r4/chicago/sps/ IEEE Signal Processing Society] (Apr 2019 - Dec 2020)
 	- Vice President, [https://journalclub.org.uic.edu/ UIC ECE Journal Club] (Aug 2016 - Aug 2017)
