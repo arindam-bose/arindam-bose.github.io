@@ -1,5 +1,6 @@
-# jemdoc: menu{MENU}{publications.html}
-== Publications \[[https://scholar.google.com/citations?user=B7lpyFwAAAAJ&hl=en Google Scholar]\]
+# jemdoc: menu{MENU}{publications.html}, notime, title{Publications | Arindam Bose}
+= Publications
+\[[https://scholar.google.com/citations?user=B7lpyFwAAAAJ&hl=en Google Scholar]\]
 
 === Doctoral Dissertation:
 	- [https://indigo.uic.edu/articles/thesis/Waveform_Synthesis_for_Active_Sensing_with_Emerging_Applications/15261999  Waveform Synthesis for Active Sensing with Emerging Applications] (2021)

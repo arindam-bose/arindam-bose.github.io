@@ -1,0 +1,16 @@
+# jemdoc: menu{MENU}{hidden.html}, notime, title{Logos | Arindam Bose}
+= Logos I have designed
+
+~~~
+{}{raw}
+<div class="row logos">
+<div class="column"><figure><img src="images/logos/trombonelive.jpg" alt="Trombone Live" />
+<figcaption><a href="https://apps.apple.com/us/app/id1478064142" target="_blank">Trombone Live</a></figcaption></figure></div>
+<div class="column"><figure><img src="images/logos/mylogo.png" alt="BosePictionary" />
+<figcaption><a href="https://www.etsy.com/shop/BosePictionary" target="_blank">BosePictionary</a></figcaption></figure></div>
+<div class="column"><figure><img src="images/logos/rsatechbook.png" alt="RSATechBook" />
+<figcaption><a href="https://www.facebook.com/rsatechbook/" target="_blank">RSATechBook</a></figcaption></figure></div>
+<div class="column"><figure><img src="images/logos/mithralab.png" alt="Mithra Lab" />
+<figcaption>Mithra Lab</figcaption></figure></div>
+</div>
+~~~

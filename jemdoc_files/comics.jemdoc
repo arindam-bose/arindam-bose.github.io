@@ -1,0 +1,12 @@
+# jemdoc: menu{MENU}{hidden.html}, notime, title{SCAN Comics | Arindam Bose}
+= SCAN Comics for WaveOPT Lab
+Created for (S)hahin, (C)hirag, (A)rindam, and (N)aveed. Drawn by Arindam.
+
+~~~
+{}{raw}
+<div class="gallery-single">
+<figure><img src="images/SCAN%20comics/cover.png" alt="SCAN Comics cover" /></figure>
+<figure><img src="images/SCAN%20comics/comic_1.png" alt="SCAN Comics, 05-15-2020" />
+<figcaption>05-15-2020</figcaption></figure>
+</div>
+~~~

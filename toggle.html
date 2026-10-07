@@ -2,10 +2,15 @@
   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<link rel="stylesheet" href="jemdoc.css" type="text/css" />
-<title>Logos</title>
+<link rel="icon" href="favicon.ico" />
+<link rel="stylesheet" href="css/main.css" type="text/css" />
+<link rel="stylesheet" href="css/custom.css" type="text/css" />
+<link rel="stylesheet" href="css/toggle.css" type="text/css" />
+<script src="js/toggle.js" type="text/javascript"></script>
+<title>Good-Cheap-Fast | Arindam Bose</title>
 <!-- MathJax -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async>
 </script>
@@ -15,165 +20,88 @@ MathJax.Hub.Config({
 });
 </script>
 <!-- End MathJax -->
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-80839968-1"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-L8GJLNDBHJ"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'UA-80839968-1');
+  gtag('config', 'G-L8GJLNDBHJ');
 </script>
-<style>
-.switch {
-  position: relative;
-  display: inline-block;
-  width: 60px;
-  height: 34px;
-}
-
-.switch input { 
-  opacity: 0;
-  width: 0;
-  height: 0;
-}
-
-.slider {
-  position: absolute;
-  cursor: pointer;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: #ccc;
-  -webkit-transition: .4s;
-  transition: .4s;
-}
-
-.slider:before {
-  position: absolute;
-  content: "";
-  height: 26px;
-  width: 26px;
-  left: 4px;
-  bottom: 4px;
-  background-color: white;
-  -webkit-transition: .4s;
-  transition: .4s;
-}
-
-input:checked + .slcheap {
-  background-color: #4885ed;
-}
-
-input:checked + .slgood {
-  background-color: #3cba54;
-}
-
-input:checked + .slfast {
-  background-color: #db3236;
-}
-
-
-input:checked + .slider:before {
-  -webkit-transform: translateX(26px);
-  -ms-transform: translateX(26px);
-  transform: translateX(26px);
-}
-
-/* Rounded sliders */
-.slider.round {
-  border-radius: 34px;
-}
-
-.slider.round:before {
-  border-radius: 50%;
-}
-
-td {
-  font-size: 20px;
-  font-family: "Georgia", Serif;
-}
-</style>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<script>
-$(document).ready(function() {
-  //set initial state.
-  $('.check').change(function() { 
-  	if ($('#good').is(':checked') && $('#cheap').is(':checked') && $('#fast').is(':checked') && $(this).attr('id')=='fast'){
-    	$('#cheap').prop('checked', false);
-    };
-    if ($('#good').is(':checked') && $('#cheap').is(':checked') && $('#fast').is(':checked') && $(this).attr('id')=='cheap'){
-    	$('#good').prop('checked', false);
-    };
-    if ($('#good').is(':checked') && $('#cheap').is(':checked') && $('#fast').is(':checked') && $(this).attr('id')=='good'){
-    	$('#fast').prop('checked', false);
-    };
-  });
-});
-</script>
-
 </head>
 <body>
-<table summary="Table for page layout." id="tlayout">
-<tr valign="top">
-<td id="layout-menu">
-<div class="menu-category">Menu</div>
-<div class="menu-item"><a href="index.html">Home</a></div>
+<div id="main-container">
+<div id="header-container">
+<div id="header">
+<div id="header-icon-text-container">
+<div id="header-icon-container" >
+<a href="index.html"><img src="images/IMG_1.png" alt="Arindam Bose" style="width: 100%; height: 100%; object-fit: cover; padding:0px; margin: 0px;"></a>
+</div>
+<div id="header-text-container">
+<a href="index.html">Arindam Bose</a>
+</div>
+</div>
+<div id="main">
+<button class="openbtn" onclick="openNav()">☰</button>
+</div>
+</div>
+</div>
+<div id="layout">
+<div id="layout-menu-container">
+<div id="layout-menu">
+<div class="menu-item"><a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a></div>
+<div class="menu-category">Home</div>
+<div class="menu-item"><a href="index.html">About&nbsp;me</a></div>
 <div class="menu-item"><a href="publications.html">Publications</a></div>
-<div class="menu-item"><a href="https://www.instagram.com/iadambose/">Art</a></div>
-<div class="menu-item"><a href="https://www.instagram.com/iadamsgallery/">Photography</a></div>
-<div class="menu-item"><a href="https://arindambose.home.blog/">Blog</a></div>
-<div class="menu-item"><a href="/sitemaps/sitemap.html">Sitemap</a></div>
-<div class="menu-item"><a href="hidden.html"><sup>Misc.</sup></a></div>
-</td>
-<td id="layout-content">
+<div class="menu-category">Other stuff</div>
+<div class="menu-item"><a href="https://www.instagram.com/iadambose/" target="blank">Art</a></div>
+<div class="menu-item"><a href="https://www.instagram.com/iadamsgallery/" target="blank">Photography</a></div>
+<div class="menu-item"><a href="https://arindambose.home.blog/" target="blank">Blog</a></div>
+<div class="menu-item"><a href="sitemaps/sitemap.html">Sitemap</a></div>
+<div class="menu-item"><a href="hidden.html" class="current"><sup>Misc.</sup></a></div>
+</div> <!-- <div id="layout-menu"> -->
+</div> <!-- <div id="layout-menu-container"> -->
+<div id="layout-content-container">
+<div id="layout-content">
 <div id="toptitle">
 <h1>Good-cheap-fast tradeoff triangle</h1>
 </div>
-<div class="infoblock">
-<div class="blockcontent">
-<table>
-	<col width="130">
-	<col width="80">
-	<tr>
-	<td height="50">
-		<label class="switch">
-			<input type="checkbox" class="check" id="good">
-			<span class="slider round slgood"></span>
-		</label>
-	</td>
-	<td>Good</td>
-	</tr>
-
-	<tr>
-	<td height="50">
-		<label class="switch">
-		  <input type="checkbox"  class="check" id="cheap">
-		  <span class="slider round slcheap"></span>
-		</label>
-	</td>
-	<td>Cheap</td>
-	</tr>
-
-	<tr>
-	<td height="50">
-		<label class="switch">
-		  <input type="checkbox"  class="check" id="fast">
-		  <span class="slider round slfast"></span>
-		</label>
-	</td>
-	<td>Fast</td>
-	</tr>
+<table class="toggle">
+<tr><td><label class="switch"><input type="checkbox" class="check" id="good" /><span class="slider round slgood"></span></label></td><td>Good</td></tr>
+<tr><td><label class="switch"><input type="checkbox" class="check" id="cheap" /><span class="slider round slcheap"></span></label></td><td>Cheap</td></tr>
+<tr><td><label class="switch"><input type="checkbox" class="check" id="fast" /><span class="slider round slfast"></span></label></td><td>Fast</td></tr>
 </table>
-</div></div>
-
+</div> <!-- <div id="layout-content"> -->
+<div id="footer-container">
 <div id="footer">
 <div id="footer-text">
-Copyright &copy; 2020 Arindam Bose
-</div>
-</div>
-</td>
-</tr>
-</table>
+&copy; Arindam Bose. Last updated on October 7<sup>th</sup> 2026.<br />
+Powered by <a href="https://github.com/szl2/jemdoc-new-design" target="blank">jemdoc + new design</a>.
+</div> <!-- <div id="footer-text"> -->
+</div> <!-- <div id="footer"> -->
+</div> <!-- <div id="footer-container"> -->
+</div> <!-- <div id="layout-content-container"> -->
+</div> <!--- <div id="layout"> --->
+</div> <!--- <div id="main-container"> --->
+<script>
+function openNav() {
+    if (window.innerWidth <= 1200) {
+        document.getElementById("layout-menu").style.width = "280px";
+        document.getElementById("layout-content-container").style.marginLeft = "280.8px";
+        document.getElementById("layout-content-container").style.position = "fixed";
+    }
+}
+function closeNav() {
+    if (window.innerWidth <= 1200) {
+        document.getElementById("layout-menu").style.width = "0";
+        document.getElementById("layout-content-container").style.position = "static";
+        document.getElementById("layout-content-container").style.marginLeft = "0px";
+        setInterval(
+            function(){ location.reload() },
+            500
+        );
+    }
+}
+</script>
 </body>
 </html>

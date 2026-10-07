@@ -1,7 +1,6 @@
-# jemdoc: menu{MENU}{hidden.html}
-== Other /{{<strike>stupid and un</strike>}}/important things I did in my life
+# jemdoc: menu{MENU}{hidden.html}, notime, title{Misc. | Arindam Bose}
+= Other /{{<strike>stupid and un</strike>}}/important things I did in my life
 
-~~~
 	- [pdfs/others/alu_fpga.pdf Design and implementation of a 32-bit ALU on Xilinx FPGA using VHDL]
 	- [pdfs/others/all_india_radio_final.pdf Report on various components of a radio communication system]
 	- [pdfs/others/energy_meter.pdf Prepaid system for domestic energy meter]
@@ -9,14 +8,13 @@
 	- [https://www.youtube.com/playlist?list=PLK5CCgQP29qAaN0Azi2ATqbiSw8NqRNGG Live video manipulation]
 
 Some other /stupid/ links in one place with high density of stupidity
-	- [/comics.html SCAN Comics]
+	- [comics.html SCAN Comics]
 	- [https://github.com/arindam-bose/mini-radar-arduino Mini Radar in Arduino using Python]
 	- [https://github.com/arindam-bose/the-webcam-manager Simple program for motion detection in live video that notifies you trough email]
 	- [https://github.com/arindam-bose/latex-symbols-template Latex symbols template project]
-	- [/logos.html Some logos I designed]
-	- [/chalk.html Amateur chalk sculpting]
-	- [/toggle.html Good-cheap-fast tradeoff triangle in pure html]
+	- [logos.html Some logos I designed]
+	- [chalk.html Amateur chalk sculpting]
+	- [toggle.html Good-cheap-fast tradeoff triangle in pure html]
 	- [https://github.com/arindam-bose/qledge-Android Android game - Qledge]
 	
 	
-~~~

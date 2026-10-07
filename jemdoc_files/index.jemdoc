@@ -1,23 +1,21 @@
-# jemdoc: menu{MENU}{index.html}
-= Arindam Bose
+# jemdoc: menu{MENU}{index.html}, notime, title{Arindam Bose}
 
 ~~~
-{}{img_left}{images/IMG_1.png}{Arindam Bose}
-==  
-Ph.D., Electrical Engineering
-\n Senior Research Engineer
+{}{img_left}{images/IMG_1.png}{Arindam Bose}{200px}{}{}
+= Arindam Bose
+=== Ph.D., Electrical Engineering
+Senior Research Engineer
 \n [https://www.kmbradar.com/ KMB Telematics Inc.]
 \n Washington DC, USA
-\n\[[pdfs/others/arindam_bose_cv.pdf Curriculum Vitae]\] \[[pdfs/others/arindam_bose_resume.pdf Résumé]\]
+\n \[[pdfs/others/arindam_bose_cv.pdf Curriculum Vitae]\] \[[pdfs/others/arindam_bose_resume.pdf Résumé]\]
 
-==  Contact
-	E-Mail: abose \[at\] kmb \[dot\] ac
-	\n[https://www.linkedin.com/in/arindam-bose-75425417/ LinkedIn]
-	\n[https://github.com/arindam-bose GitHub]
-	\n[https://scholar.google.com/citations?user=B7lpyFwAAAAJ&hl=en Google Scholar]
-	\n[https://www.webofscience.com/wos/author/record/GRY-1990-2022 Web of Science]
+*Contact*
+\n E-Mail: abose \[at\] kmb \[dot\] ac
+\n [https://www.linkedin.com/in/arindam-bose-75425417/ LinkedIn]
+| [https://github.com/arindam-bose GitHub]
+| [https://scholar.google.com/citations?user=B7lpyFwAAAAJ&hl=en Google Scholar]
+| [https://www.webofscience.com/wos/author/record/GRY-1990-2022 Web of Science]
 ~~~
-
 
 == About Me
 	- I am a Radar Systems Engineer with specialized expertise in imaging radar systems for drone detection and tracking applications. 
@@ -44,7 +42,7 @@ Ph.D., Electrical Engineering
 	- Active Sensing
 
 == Publications
-	- [/publications.html View full list here]
+	- [publications.html View full list here]
 	- [https://scholar.google.com/citations?user=B7lpyFwAAAAJ&hl=en Google Scholar]
 
 == Experience
