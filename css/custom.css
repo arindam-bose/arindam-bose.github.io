@@ -1,0 +1,61 @@
+/* Site-specific additions on top of css/main.css (jemdoc-new-design). */
+
+/* Publication tables */
+#JTABLE, #CTABLE, #BTABLE, #PTABLE {
+	width: 100%;
+	margin-top: 0.6em;
+	margin-bottom: 1.5em;
+	font-size: 15px;
+}
+
+#JTABLE td, #CTABLE td, #BTABLE td, #PTABLE td {
+	text-align: left;
+	vertical-align: top;
+	line-height: 1.5;
+	padding: 6px 8px;
+}
+
+#JTABLE tr.r1, #CTABLE tr.r1, #BTABLE tr.r1, #PTABLE tr.r1 {
+	background: #f6f8fa;
+	font-weight: 600;
+}
+
+#JTABLE td:first-child, #CTABLE td:first-child, #BTABLE td:first-child, #PTABLE td:first-child {
+	white-space: nowrap;
+	font-weight: 600;
+	color: #586069;
+}
+
+/* Let wide tables scroll sideways on small screens instead of overflowing. */
+@media screen and (max-width: 700px) {
+	#JTABLE, #CTABLE, #BTABLE, #PTABLE {
+		display: block;
+		overflow-x: auto;
+	}
+}
+
+/* Image pages (chalk, logos, comics) */
+.row img {
+	margin: 0;
+	object-fit: cover;
+}
+
+.row figure, .gallery-single figure {
+	margin: 0 0 16px 0;
+}
+
+.logos figcaption, .gallery-single figcaption {
+	text-align: center;
+	font-size: 15px;
+}
+
+.logos img {
+	object-fit: contain;
+}
+
+.gallery-single img {
+	display: block;
+	max-width: 400px;
+	width: 100%;
+	margin: 0 auto;
+}

@@ -1,0 +1,17 @@
+# jemdoc: menu{MENU}{hidden.html}, notime, title{Chalk Sculpting | Arindam Bose}
+= Amateur Chalk Sculpting
+
+~~~
+{}{raw}
+<div class="row">
+<div class="column"><img src="images/chalk/chalk_1.jpg" alt="Chalk sculpture 1" /></div>
+<div class="column"><img src="images/chalk/chalk_2.jpg" alt="Chalk sculpture 2" /></div>
+<div class="column"><img src="images/chalk/chalk_3.jpg" alt="Chalk sculpture 3" /></div>
+<div class="column"><img src="images/chalk/chalk_4.jpg" alt="Chalk sculpture 4" /></div>
+<div class="column"><img src="images/chalk/chalk_5.jpg" alt="Chalk sculpture 5" /></div>
+<div class="column"><img src="images/chalk/chalk_6.jpg" alt="Chalk sculpture 6" /></div>
+<div class="column"><img src="images/chalk/chalk_7.jpg" alt="Chalk sculpture 7" /></div>
+<div class="column"><img src="images/chalk/chalk_8.jpg" alt="Chalk sculpture 8" /></div>
+<div class="column"><img src="images/chalk/chalk_9.jpg" alt="Chalk sculpture 9" /></div>
+</div>
+~~~

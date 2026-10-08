@@ -1,0 +1,11 @@
+# jemdoc: menu{MENU}{hidden.html}, notime, title{Good-Cheap-Fast | Arindam Bose}, addcss{css/toggle.css}, addjs{js/toggle}
+= Good-cheap-fast tradeoff triangle
+
+~~~
+{}{raw}
+<table class="toggle">
+<tr><td><label class="switch"><input type="checkbox" class="check" id="good" /><span class="slider round slgood"></span></label></td><td>Good</td></tr>
+<tr><td><label class="switch"><input type="checkbox" class="check" id="cheap" /><span class="slider round slcheap"></span></label></td><td>Cheap</td></tr>
+<tr><td><label class="switch"><input type="checkbox" class="check" id="fast" /><span class="slider round slfast"></span></label></td><td>Fast</td></tr>
+</table>
+~~~
