@@ -1520,6 +1520,8 @@ def procfile(f):
         elif len(g) >= 4 and g[1] == 'img_left':
           # handles
           # {}{img_left}{source}{alttext}{width}{height}{linktarget}.
+          # height may be 'fill': the image then stretches to the height of
+          # the text beside it, cropped to fit, at the given width.
           g += ['']*(7 - len(g))
 
           if g[4].isdigit():
@@ -1528,7 +1530,17 @@ def procfile(f):
           if g[5].isdigit():
             g[5] += 'px'
 
-          out(f.outf, '<div id="text-img-container"><div id="img-container">\n')
+          if g[5] == 'fill':
+            g[5] = ''
+            if g[4]:
+              out(f.outf, '<div id="text-img-container" class="img-fill">'
+                  '<div id="img-container" style="width: %s">\n' % g[4])
+              g[4] = ''
+            else:
+              out(f.outf, '<div id="text-img-container" class="img-fill">'
+                  '<div id="img-container">\n')
+          else:
+            out(f.outf, '<div id="text-img-container"><div id="img-container">\n')
           if g[6]:
             out(f.outf, '<a href="%s">' % g[6])
           out(f.outf, '<img src="%s"' % g[2])

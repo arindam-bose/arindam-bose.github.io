@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{index.html}, notime, title{Arindam Bose}
 
 ~~~
-{}{img_left}{images/IMG_1.png}{Arindam Bose}{230px}{}{}
+{}{img_left}{images/IMG_1.png}{Arindam Bose}{230px}{fill}{}
 = Arindam Bose
 === Ph.D., Electrical Engineering
 Senior Research Engineer
