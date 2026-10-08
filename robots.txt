@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arindambose.com/rdr2-crafting-guide/sitemap.xml
