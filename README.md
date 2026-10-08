@@ -5,8 +5,8 @@
 git clone git@github.com:arindam-bose/arindam-bose.github.io.git
 cd arindam-bose.github.io/jemdoc_files/
 virtualenv venv -p /usr/bin/python3
-source .venv/bin/activate
-python ./jemdoc -c mysite.conf -o ../  *.jemdoc
+source venv/bin/activate
+python ../jemdoc -c mysite.conf -o ../  *.jemdoc
 ```
 
 ## Stats
