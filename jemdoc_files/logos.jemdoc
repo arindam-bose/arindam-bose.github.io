@@ -3,14 +3,22 @@
 
 ~~~
 {}{raw}
-<div class="row logos">
-<div class="column"><figure><img src="images/logos/trombonelive.jpg" alt="Trombone Live" />
-<figcaption><a href="https://apps.apple.com/us/app/id1478064142" target="_blank">Trombone Live</a></figcaption></figure></div>
-<div class="column"><figure><img src="images/logos/mylogo.png" alt="BosePictionary" />
-<figcaption><a href="https://www.etsy.com/shop/BosePictionary" target="_blank">BosePictionary</a></figcaption></figure></div>
-<div class="column"><figure><img src="images/logos/rsatechbook.png" alt="RSATechBook" />
-<figcaption><a href="https://www.facebook.com/rsatechbook/" target="_blank">RSATechBook</a></figcaption></figure></div>
-<div class="column"><figure><img src="images/logos/mithralab.png" alt="Mithra Lab" />
-<figcaption>Mithra Lab</figcaption></figure></div>
+<div class="card-grid logos">
+<figure class="card logo-card">
+<a class="photo" href="https://apps.apple.com/us/app/id1478064142" target="_blank"><img src="images/logos/trombonelive.jpg" alt="Trombone Live logo" /></a>
+<figcaption><a href="https://apps.apple.com/us/app/id1478064142" target="_blank">Trombone Live</a></figcaption>
+</figure>
+<figure class="card logo-card">
+<a class="photo" href="https://www.etsy.com/shop/BosePictionary" target="_blank"><img src="images/logos/mylogo.png" alt="BosePictionary logo" /></a>
+<figcaption><a href="https://www.etsy.com/shop/BosePictionary" target="_blank">BosePictionary</a></figcaption>
+</figure>
+<figure class="card logo-card">
+<a class="photo" href="https://www.facebook.com/rsatechbook/" target="_blank"><img src="images/logos/rsatechbook.png" alt="RSATechBook logo" /></a>
+<figcaption><a href="https://www.facebook.com/rsatechbook/" target="_blank">RSATechBook</a></figcaption>
+</figure>
+<figure class="card logo-card">
+<div class="photo"><img src="images/logos/mithralab.png" alt="Mithra Lab logo" /></div>
+<figcaption>Mithra Lab</figcaption>
+</figure>
 </div>
 ~~~
