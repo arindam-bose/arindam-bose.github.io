@@ -104,3 +104,59 @@
 	width: 100%;
 	margin: 0 auto;
 }
+
+/* Misc. projects table with the stupid-meter (hidden.html) */
+#STUPIDTABLE {
+	width: 100%;
+	margin-top: 0.6em;
+	margin-bottom: 1.5em;
+	font-size: 15px;
+}
+
+#STUPIDTABLE td {
+	text-align: left;
+	vertical-align: middle;
+	line-height: 1.5;
+	padding: 6px 8px;
+}
+
+#STUPIDTABLE tr.r1 {
+	background: #f6f8fa;
+	font-weight: 600;
+}
+
+/* Type: named once per group, on the group's first row. */
+#STUPIDTABLE td.c1 {
+	white-space: nowrap;
+	vertical-align: top;
+	font-weight: 600;
+	color: #586069;
+}
+
+/* Hide the line above a blank Type cell so each group reads as one block. */
+#STUPIDTABLE td.c1:empty {
+	border-top-style: hidden;
+}
+
+#STUPIDTABLE td.c3 {
+	white-space: nowrap;
+}
+
+img.gauge {
+	width: 32px;
+	height: auto;
+	margin: 0 8px 0 0;
+	border-radius: 0;
+	vertical-align: middle;
+}
+
+@media screen and (max-width: 700px) {
+	#STUPIDTABLE {
+		display: block;
+		overflow-x: auto;
+	}
+
+	#STUPIDTABLE td.c1 {
+		white-space: normal;
+	}
+}

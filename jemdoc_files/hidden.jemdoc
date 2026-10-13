@@ -1,25 +1,33 @@
 # jemdoc: menu{MENU}{hidden.html}, notime, title{Misc. | Arindam Bose}
 = Other /{{<strike>stupid and un</strike>}}/important things I did since my arrival on earth
 
-Stupid:
-	- [rdr2-crafting-guide/ Red Dead Redemption 2 Crafting Guide]
 
-Stupider:
-	- [pdfs/others/alu_fpga.pdf Design and implementation of a 32-bit ALU on Xilinx FPGA using VHDL]
-	- [pdfs/others/all_india_radio_final.pdf Report on various components of a radio communication system]
-	- [pdfs/others/energy_meter.pdf Prepaid system for domestic energy meter]
-	- [pdfs/others/helianthus.pdf Helianthus - the solar tracking system]
-	- [https://www.youtube.com/playlist?list=PLK5CCgQP29qAaN0Azi2ATqbiSw8NqRNGG Live video manipulation]
-	- [woodwork.html Amateur woodworking]
+~~~
+{}{table}{STUPIDTABLE}
+*Type* |*Project* | *Stupid Meter* ||
+Gaming Tool: 
+| [rdr2-crafting-guide/ Red Dead Redemption 2 Crafting Guide] | {{<img class="gauge" src="images/gauge/gauge-green.png" alt="" />}} ||
 
-Stupidest:
-	- [comics.html SCAN Comics]
-	- [https://github.com/arindam-bose/mini-radar-arduino Mini Radar in Arduino using Python]
-	- [https://github.com/arindam-bose/the-webcam-manager Simple program for motion detection in live video that notifies you trough email]
-	- [https://github.com/arindam-bose/latex-symbols-template Latex symbols template project]
-	- [logos.html Some logos I designed]
-	- [chalk.html Amateur chalk sculpting]
-	- [toggle.html Good-cheap-fast tradeoff triangle in pure html]
-	- [https://github.com/arindam-bose/qledge-Android Android game - Qledge]
-	
-	
+Coding & Software: 
+| [https://www.notion.com/@arindam-bose Notion tools for organizing life] | {{<img class="gauge" src="images/gauge/gauge-green.png" alt="" />}} ||
+| [https://www.youtube.com/playlist?list=PLK5CCgQP29qAaN0Azi2ATqbiSw8NqRNGG Live video manipulation] | {{<img class="gauge" src="images/gauge/gauge-yellow.png" alt="" />}} ||
+| [https://github.com/arindam-bose/the-webcam-manager Motion detection in live video] | {{<img class="gauge" src="images/gauge/gauge-red.png" alt="" />}} ||
+| [https://github.com/arindam-bose/latex-symbols-template Latex symbols template project] | {{<img class="gauge" src="images/gauge/gauge-red.png" alt="" />}} ||
+| [toggle.html Good-cheap-fast tradeoff triangle in pure html] | {{<img class="gauge" src="images/gauge/gauge-red.png" alt="" />}} ||
+| [https://github.com/arindam-bose/qledge-Android Android game - Qledge] | {{<img class="gauge" src="images/gauge/gauge-red.png" alt="" />}} ||
+
+Electronics & Hardware: 
+| [https://github.com/arindam-bose/mini-radar-arduino Mini Radar in Arduino using Python] | {{<img class="gauge" src="images/gauge/gauge-yellow.png" alt="" />}} ||
+| [pdfs/others/energy_meter.pdf Prepaid system for domestic energy meter] | {{<img class="gauge" src="images/gauge/gauge-yellow.png" alt="" />}} ||
+| [pdfs/others/helianthus.pdf Helianthus - the solar tracking system] | {{<img class="gauge" src="images/gauge/gauge-yellow.png" alt="" />}} ||
+| [pdfs/others/alu_fpga.pdf Design and implementation of a 32-bit ALU on Xilinx FPGA using VHDL] | {{<img class="gauge" src="images/gauge/gauge-red.png" alt="" />}} ||
+| [pdfs/others/all_india_radio_final.pdf Report on various components of a radio communication system] | {{<img class="gauge" src="images/gauge/gauge-red.png" alt="" />}} ||
+
+Art & Design: 
+| [woodwork.html Amateur woodworking] | {{<img class="gauge" src="images/gauge/gauge-green.png" alt="" />}} ||
+| [logos.html Some logos I designed] | {{<img class="gauge" src="images/gauge/gauge-yellow.png" alt="" />}} ||
+| [chalk.html Amateur chalk sculpting] | {{<img class="gauge" src="images/gauge/gauge-yellow.png" alt="" />}} ||
+| [comics.html SCAN Comics] | {{<img class="gauge" src="images/gauge/gauge-red.png" alt="" />}}
+~~~
+
+
