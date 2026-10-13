@@ -4,30 +4,31 @@
 
 ~~~
 {}{table}{STUPIDTABLE}
-*Type* |*Project* | *Stupid Meter* ||
+*Type* |*Project* | *Year* | *Stupid-o-meter* ||
 Gaming Tool: 
-| [rdr2-crafting-guide/ Red Dead Redemption 2 Crafting Guide] | {{<img class="gauge" src="images/gauge/gauge-green.png" alt="" />}} ||
+| [rdr2-crafting-guide/ Red Dead Redemption 2 Crafting Guide] | 2026 | {{<img class="gauge" src="images/gauge/gauge-green.png" alt="" />}} ||
 
 Coding & Software: 
-| [https://www.notion.com/@arindam-bose Notion tools for organizing life] | {{<img class="gauge" src="images/gauge/gauge-green.png" alt="" />}} ||
-| [https://www.youtube.com/playlist?list=PLK5CCgQP29qAaN0Azi2ATqbiSw8NqRNGG Live video manipulation] | {{<img class="gauge" src="images/gauge/gauge-yellow.png" alt="" />}} ||
-| [https://github.com/arindam-bose/the-webcam-manager Motion detection in live video] | {{<img class="gauge" src="images/gauge/gauge-red.png" alt="" />}} ||
-| [https://github.com/arindam-bose/latex-symbols-template Latex symbols template project] | {{<img class="gauge" src="images/gauge/gauge-red.png" alt="" />}} ||
-| [toggle.html Good-cheap-fast tradeoff triangle in pure html] | {{<img class="gauge" src="images/gauge/gauge-red.png" alt="" />}} ||
-| [https://github.com/arindam-bose/qledge-Android Android game - Qledge] | {{<img class="gauge" src="images/gauge/gauge-red.png" alt="" />}} ||
+| [https://www.notion.com/@arindam-bose Notion tools for organizing life] | 2024 - 2025 | {{<img class="gauge" src="images/gauge/gauge-green.png" alt="" />}} ||
+| [https://github.com/arindam-bose/the-webcam-manager Motion detection in live video] | 2020 - 2022 | {{<img class="gauge" src="images/gauge/gauge-red.png" alt="" />}} ||
+| [https://github.com/arindam-bose/latex-symbols-template Latex symbols template project] | 2019 - 2020 | {{<img class="gauge" src="images/gauge/gauge-red.png" alt="" />}} ||
+| [toggle.html Good-cheap-fast tradeoff triangle in pure html] | 2016 | {{<img class="gauge" src="images/gauge/gauge-red.png" alt="" />}} ||
+| [https://github.com/arindam-bose/qledge-Android Android game - Qledge] | 2015 | {{<img class="gauge" src="images/gauge/gauge-red.png" alt="" />}} ||
+| [https://www.youtube.com/playlist?list=PLK5CCgQP29qAaN0Azi2ATqbiSw8NqRNGG Live video manipulation] | 2013 | {{<img class="gauge" src="images/gauge/gauge-yellow.png" alt="" />}} ||
 
 Electronics & Hardware: 
-| [https://github.com/arindam-bose/mini-radar-arduino Mini Radar in Arduino using Python] | {{<img class="gauge" src="images/gauge/gauge-yellow.png" alt="" />}} ||
-| [pdfs/others/energy_meter.pdf Prepaid system for domestic energy meter] | {{<img class="gauge" src="images/gauge/gauge-yellow.png" alt="" />}} ||
-| [pdfs/others/helianthus.pdf Helianthus - the solar tracking system] | {{<img class="gauge" src="images/gauge/gauge-yellow.png" alt="" />}} ||
-| [pdfs/others/alu_fpga.pdf Design and implementation of a 32-bit ALU on Xilinx FPGA using VHDL] | {{<img class="gauge" src="images/gauge/gauge-red.png" alt="" />}} ||
-| [pdfs/others/all_india_radio_final.pdf Report on various components of a radio communication system] | {{<img class="gauge" src="images/gauge/gauge-red.png" alt="" />}} ||
+| [https://github.com/arindam-bose/mini-radar-arduino Mini Radar in Arduino using Python] | 2022 | {{<img class="gauge" src="images/gauge/gauge-yellow.png" alt="" />}} ||
+| [pdfs/others/helianthus.pdf Helianthus - the solar tracking system] | 2013 | {{<img class="gauge" src="images/gauge/gauge-yellow.png" alt="" />}} ||
+| [pdfs/others/energy_meter.pdf Prepaid system for domestic energy meter] | 2012 | {{<img class="gauge" src="images/gauge/gauge-yellow.png" alt="" />}} ||
+| [pdfs/others/alu_fpga.pdf Design and implementation of a 32-bit ALU on Xilinx FPGA using VHDL] | 2011 | {{<img class="gauge" src="images/gauge/gauge-red.png" alt="" />}} ||
+| [pdfs/others/all_india_radio_final.pdf Report on various components of a radio communication system] | 2011 | {{<img class="gauge" src="images/gauge/gauge-red.png" alt="" />}} ||
 
 Art & Design: 
-| [woodwork.html Amateur woodworking] | {{<img class="gauge" src="images/gauge/gauge-green.png" alt="" />}} ||
-| [logos.html Some logos I designed] | {{<img class="gauge" src="images/gauge/gauge-yellow.png" alt="" />}} ||
-| [chalk.html Amateur chalk sculpting] | {{<img class="gauge" src="images/gauge/gauge-yellow.png" alt="" />}} ||
-| [comics.html SCAN Comics] | {{<img class="gauge" src="images/gauge/gauge-red.png" alt="" />}}
+| [woodwork.html Amateur woodworking] | 2023 - 2026 | {{<img class="gauge" src="images/gauge/gauge-green.png" alt="" />}} ||
+| [comics.html SCAN Comics] | 2020 | {{<img class="gauge" src="images/gauge/gauge-red.png" alt="" />}} ||
+| [logos.html Some logos I designed] | 2012 - 2020 | {{<img class="gauge" src="images/gauge/gauge-yellow.png" alt="" />}} ||
+| [chalk.html Amateur chalk sculpting] | 2010 - 2011 | {{<img class="gauge" src="images/gauge/gauge-yellow.png" alt="" />}}
+
 ~~~
 
 
