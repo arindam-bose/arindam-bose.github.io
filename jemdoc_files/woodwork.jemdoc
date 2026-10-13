@@ -1,18 +1,29 @@
-# jemdoc: menu{MENU}{hidden.html}, notime, title{Chalk Sculpting | Arindam Bose}
+# jemdoc: menu{MENU}{hidden.html}, notime, title{Wood Work | Arindam Bose}
 = Amateur Wood Work
 
 ~~~
 {}{raw}
-<div class="row">
-<div class="column"><img src="images/woodwork/hiking_pole_1a.jpg" alt="Hiking Stick 1" /></div>
-<div class="column"><img src="images/woodwork/hiking_pole_1b.jpg" alt="Hiking Stick 1" /></div>
+<div class="wood-gallery">
+<section class="wood-card">
+<h3>Hiking Stick 1</h3>
+<div class="wood-photos">
+<a href="images/woodwork/hiking_pole_1a.jpg"><img src="images/woodwork/web/hiking_pole_1a.jpg" alt="Hiking Stick 1, front view" loading="lazy" /></a>
+<a href="images/woodwork/hiking_pole_1b.jpg"><img src="images/woodwork/web/hiking_pole_1b.jpg" alt="Hiking Stick 1, side view" loading="lazy" /></a>
 </div>
-<div class="row">
-<div class="column"><img src="images/woodwork/hiking_pole_2a.jpg" alt="Hiking Stick 2" /></div>
-<div class="column"><img src="images/woodwork/hiking_pole_2b.jpg" alt="Hiking Stick 2" /></div>
+</section>
+<section class="wood-card">
+<h3>Hiking Stick 2</h3>
+<div class="wood-photos">
+<a href="images/woodwork/hiking_pole_2a.jpg"><img src="images/woodwork/web/hiking_pole_2a.jpg" alt="Hiking Stick 2, front view" loading="lazy" /></a>
+<a href="images/woodwork/hiking_pole_2b.jpg"><img src="images/woodwork/web/hiking_pole_2b.jpg" alt="Hiking Stick 2, side view" loading="lazy" /></a>
 </div>
-<div class="row">
-<div class="column"><img src="images/woodwork/wooden_stick_1a.jpg" alt="Wooden Stick 1" /></div>
-<div class="column"><img src="images/woodwork/wooden_stick_1c.jpg" alt="Wooden Stick 1" /></div>
+</section>
+<section class="wood-card">
+<h3>Wooden Stick</h3>
+<div class="wood-photos">
+<a href="images/woodwork/wooden_stick_1a.jpg"><img src="images/woodwork/web/wooden_stick_1a.jpg" alt="Wooden Stick, in hand view" loading="lazy" /></a>
+<a href="images/woodwork/wooden_stick_1c.jpg"><img src="images/woodwork/web/wooden_stick_1c.jpg" alt="Wooden Stick, full length view" loading="lazy" /></a>
+</div>
+</section>
 </div>
 ~~~
