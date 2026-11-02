@@ -1,12 +1,13 @@
 # jemdoc: menu{MENU}{hidden.html}, notime, title{Misc. | Arindam Bose}
-= Other /{{<strike>stupid and un</strike>}}/important things I did since my arrival on earth
+= Other /{{<strike>stupid</strike>}}/ things I did since my arrival on earth
 
 
 ~~~
 {}{table}{STUPIDTABLE}
 *Type* |*Project* | *Year* | *Stupid-o-meter* ||
-Gaming Tool: 
+Online Tool: 
 | [rdr2-crafting-guide/ Red Dead Redemption 2 Crafting Guide] | 2026 | {{<img class="gauge" src="images/gauge/gauge-green.png" alt="" />}} ||
+| [personal-money-tracker/ Personal Money Tracker] | 2026 | {{<img class="gauge" src="images/gauge/gauge-green.png" alt="" />}} ||
 
 Coding & Software: 
 | [https://www.notion.com/@arindam-bose Notion tools for organizing life] | 2024 - 2025 | {{<img class="gauge" src="images/gauge/gauge-green.png" alt="" />}} ||
