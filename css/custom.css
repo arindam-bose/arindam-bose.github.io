@@ -119,7 +119,7 @@
 /* Type: named once per group, on the group's first row. */
 #STUPIDTABLE td.c1 {
 	white-space: nowrap;
-	vertical-align: top;
+	vertical-align: middle;
 	font-weight: 600;
 	color: #586069;
 }

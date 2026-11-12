@@ -14,7 +14,7 @@ Senior Research Engineer
 \n [https://www.linkedin.com/in/arindam-bose-75425417/ LinkedIn]
 | [https://github.com/arindam-bose GitHub]
 | [https://scholar.google.com/citations?user=B7lpyFwAAAAJ&hl=en Google Scholar]
-| [https://www.webofscience.com/wos/author/record/GRY-1990-2022 Web of Science]
+| [https://orcid.org/0000-0002-1253-4785 ORCiD]
 ~~~
 
 == About Me
@@ -22,11 +22,12 @@ Senior Research Engineer
 	  Proven experience in designing, developing, and optimizing radar signal processing algorithms for high-resolution imaging, target classification, and clutter suppression in complex environments. 
 	  Strong background in MIMO radar, beamforming, Doppler processing, and real-time embedded implementation. 
 	  Adept at designing and integrating radar hardware with advanced signal processing pipelines to enhance situational awareness in airborne and ground-based surveillance systems. 
-	- Currently working as a senior research engineer at [https://www.kmbradar.com/ KMB Telematics Inc.] We make high-resolution imaging radar sensors for automotive cars and for UAV detection purposes.
-	- In 2021, I finished my Ph.D. in Electrical Engineering from the [http://www.uic.edu/ University of Illinois at Chicago] under supervision of [https://msol.people.uic.edu/ Prof. Mojtaba Soltanalian]. I was a part of [https://waveopt-lab.uic.edu WaveOPT lab], UIC. Find my thesis [https://indigo.uic.edu/articles/thesis/Waveform_Synthesis_for_Active_Sensing_with_Emerging_Applications/15261999 here].
+	- Currently working as a senior research engineer at [https://www.kmbradar.com/ KMB Telematics Inc.] We make high-resolution MIMO imaging radar sensors for UAV detection purposes.
+	- In 2021, I received my Ph.D. in Electrical Engineering from the [http://www.uic.edu/ University of Illinois at Chicago] under supervision of [https://msol.people.uic.edu/ Prof. Mojtaba Soltanalian]. I was a part of [https://waveopt-lab.uic.edu WaveOPT lab], UIC. Find my dissertation [https://indigo.uic.edu/articles/thesis/Waveform_Synthesis_for_Active_Sensing_with_Emerging_Applications/15261999 here].
 	- I received my B.Tech. in Electronics and Communication Engineering from [http://www.wbut.ac.in/ West Bengal University of Technology] (currently known as [http://makautexam.net/ Maulana Abul Kalam Azad University of Technology]), Kolkata, India in 2012.
 	- Before joining UIC, I spent my time doing software designing, development, and maintenance as a programmer analyst. I have almost one and half years of work experience in [https://www.cognizant.com/ Cognizant Technology Solutions] as a Java Developer during 2013-14.
-	- Above everything, I am a part time [https://www.instagram.com/iadambose/ artist] and [https://www.instagram.com/iadamsgallery/ amateur photographer]. My subject is mostly abstract, and black and white is my color. 
+	- Outside of work, I am passionate about coding and embedded systems. In my spare time I take on side projects, ranging from software tools to embedded hardware builds, and lately I have been using AI tools to create small offline apps that solve everyday problems. You can find many of them among my open-source projects on [https://github.com/arindam-bose GitHub].
+	- When I step away from the keyboard and the circuit boards, I am usually in the workshop doing some amateur [https://arindambose.com/woodwork.html woodworking], or making [https://www.instagram.com/iadambose/ digital art] and [https://www.instagram.com/iadamsgallery/ photography]. My subjects lean abstract, and black and white is my color. 
 
 == Education
 	- Ph.D., Department of Electrical Engineering, [http://www.uic.edu University of Illinois at Chicago], 2021 (Chicago, IL, USA)
@@ -60,6 +61,20 @@ Senior Research Engineer
 	- RSATechBook (Kolkata, India)
 		-- Co-founder and CEO (Jan 2012 - Apr 2013)
 		
+== Coding Skills
+	- Programming Languages
+		-- Python, Rust, C, C\+\+, Java, MATLAB
+	- Hardware Description Languages
+		-- Verilog, VHDL
+	- Database
+		-- SQL
+	- Markup & Typesetting
+		-- LaTeX, Markdown
+	- FPGA & Embedded Tools
+		-- Vivado, Vitis, Lattice Diamond
+	- Hardware & Platforms
+		-- Arduino, Xilinx FPGAs, Lattice FPGAs
+	
 == Teaching Experiences
 	- Guest Lecture, University of Illinois at Chicago
 		-- Detection and Estimation Theory (ECE 531), Department of ECE (Fall 2019)
@@ -106,7 +121,6 @@ and the [https://ncsm.gov.in/ National Council of Science Museums] (Jan 2011)
 		-- [https://www.sciencedirect.com/journal/digital-signal-processing Elsevier Digital Signal Processing] (2021 - Present)
 		-- [https://digital-library.theiet.org/content/journals/iet-spr IET Signal Processing] (2020 - Present)
 		-- [https://digital-library.theiet.org/content/journals/iet-rsn IET Radar, Sonar & Navigation] (2022 - Present)
-		-- [https://www.mdpi.com/journal/symmetry MDPI Symmetry] (2022 - Present)
 
 	- Conference Paper Referee: 
 		-- [https://ssp2021.signalprocessingsociety.org/ssp2020.cetuc.puc-rio.br/index.html IEEE Statistical Signal Processing Workshop (SSP) 2021]
